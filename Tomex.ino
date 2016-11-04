@@ -5,7 +5,7 @@
  
 #define RELE_LAMPADA         4 //RELE_LAMPADA como 4
  
-SoftwareSerial blueToothSerial(RxD,TxD); //Instância a biblioteca SoftwareSerial.h
+SoftwareSerial blueToothSerial(RxD,TxD); //Instancia a biblioteca SoftwareSerial.h
  int flag = 1;
 void setup()
 {
