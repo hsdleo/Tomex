@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Record Formid="" Controlid="" Chinese="">null</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="be8e841104d2c9239ad7c814e1d66efd54fb669f" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5a72bf123b9acfa48af76c9999f714a99eecbd04" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5d85d7f44a2afddfe7dafbb7d52dcf8d190fbcea" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1bcee7d9e002052dfa86f063b60119092cfa4a63" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ed1004b92ed03e9322344b226c5b12f18e5e52cc" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bf3ec7aa5bd5723d6809ead90072417ea6733ed0" Chinese="button1111">按钮1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d7793fe08118277e13864e862f74457a49da0edb" Chinese="statusStrip1">statusStrip1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1e17b89b2c4f83fd34e4cfaa9093bc92c7cbe107" Chinese="toolStrip1">toolStrip1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6ab8634e19a28bfa860c6fb26a2300a36d4e3b9d" Chinese="File">文件</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a0bef29420ea7f8ae0f895199333d672da5ab674" Chinese="Open Project">打开项目</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="85eb9174cb4b014ffb303804ac08c7618a9a48d1" Chinese="Save as">另存为</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="abaf64e67e715b4664e0e107c2c13ab34950c3a9" Chinese="New Project">新建项目</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e8e470bcda625acb287f0eedd9de04f18ba65439" Chinese="Exit">退出</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a108d40d4c80e0779ddeaa92f12dce0cfaf73f72" Chinese="Eidt">编辑</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="169f3cb53988cd2e82c637a4132efdf872f1a692" Chinese="添加节目1">添加节目1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f3923a96f3c9c5eb9f415decf62f372b966a92b6" Chinese="Add Subarea">添加分区</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b1adec3976fe0028403ee91185e98e16c179ca30" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f039e90724390d677616bcf85163e32e1ac3d460" Chinese="添加图文1">添加图文1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="78ab5bd06e7af8574f30c86b6bca1ece398ec61e" Chinese="添加时钟1">添加时钟1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e9b1d8a74b17fe25e49898eac051a5916a888b15" Chinese="添加表盘1">添加表盘1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1555be5fccd8febd062fe6e4ca497a02b91fab4b" Chinese="添加农历1">添加农历1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7c25c50681b17d46af3d00ae401f170a9d5a1731" Chinese="添加计时1">添加计时1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a632bfc54d7ae4e7214dc4db86f87363196c23bc" Chinese="添加温度1">添加温度1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d2fcc8f8348b7fc19714752a66318eff18ca5fe2" Chinese="添加湿度1">添加湿度1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7ee1095e3a469e1e5e0f9b3a94f74f9ef2be0002" Chinese="添加噪声1">添加噪声1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4eaf6a459e30af0b01b2044ea48d0642785f4281" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="54549fb2229877024283d4e62c831570bac45246" Chinese="删除选项1">删除选项1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9080f52ee86a7094d236bc93f1922c1986898f13" Chinese="设置1">设置1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aa4183ed3c1671d5f16a57e092cf4efa7a85b079" Chinese="屏幕设置1">屏幕设置1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="52b518c62762a540b8f2c7da5d5be9c1573a41e2" Chinese="亮度设置1">亮度设置1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7afbf129768074a517cc668b3092aa5093b6ae4b" Chinese="校时1">校时1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cca0b3aa158ead000b7425941f3478ffe0f505d8" Chinese="">
+  </Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="92ba8b3630f856faf6d54d3da7f27ed5eff3be20" Chinese="串口通讯测试">串口通讯测试</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="82e484af120206aa228bf754fd1578c18ccef065" Chinese="语言">语言</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="275db8e0ce86df7baecefd831d6c34fee58b79ca" Chinese="多语言模板">多语言模板</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7d415b28ef249b09697d5e48df2fdf8ede15a810" Chinese="皮肤1">皮肤1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="67a5774d5fd6409a8b19e957f845f11d279afa24" Chinese="帮助1">帮助1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1caad785f9b5d4867ab526b1140aec950fb6f96a" Chinese="添加节目1">添加节目1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="214373abf61dd7608b4b675dc6a17adb9a204a84" Chinese="删除节目1">删除节目1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="dbe5b295022525549e7c10f0b2f9bce73ba6c361" Chinese="添加分区1">添加分区1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7e0f0cc8733a91b4540e04a252b99c5eb875a787" Chinese="添加内容1">添加内容1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7b6115096aea6f37c49cdff46a2a8092444494a1" Chinese="文本和动画">文本和动画</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="45da8d7f125296860d2931e80db747c5fc49a2e5" Chinese="时间1">时间1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7f81b260404d59846f3ab2e14cacb8e3e284367e" Chinese="表盘1">表盘1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2d13d27eebd9326b4b080484d501e99bd3beff0d" Chinese="农历1">农历1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f7346ec64a85f6a8f236a1f8f5ccddadb748a5ea" Chinese="温度1">温度1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6c95395c5b00d08051d1cd18ff6e14bb0ab02292" Chinese="湿度1">湿度1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="86898b17d481acb6689cf332aa6e53ed1dffdd59" Chinese="噪音1">噪音1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="200b35084556f4a3941e6785a871ac0a459c0b07" Chinese="计时1">计时1</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="5a72bf123b9acfa48af76c9999f714a99eecbd04" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="66072768a879d8502a16d7ba7bdee4bed46bceda" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="d3692be094812eca2d207fae341c8776437a5861" Chinese="0">0</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="40059e6237b38840b39fe32f5e856d479fe1bf0f" Chinese="OE极性">OE极性</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="e23bb39be35258b466037a2b2ff8bd40085c5c24" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="38ebf32aa8f6aa5e38d220c8e468f6aaca4047d9" Chinese="读取版本号">读取版本号</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="24dd4c2e99bf3e0536ccbfbc2edb90f928643238" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="31fa67a2ad79b9609adb9ecd2b37e543124d1111" Chinese="联机版本号">联机版本号</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="ab16927f173d4c4c0017587c469edf3cd53455c6" Chinese="保存">保存</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="3eccca7a51e5dc4f6c4fbbc4e1f6067f5276fbc7" Chinese="加载">加载</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="693d2116b6b34fc3eea81446e91b339f89769038" Chinese="Mac地址">Mac地址</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="a0a5e2011eaea2a866e9bf2fbb1301820d7a9ead" Chinese="00-00-00-00-00-00">00-00-00-00-00-00</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="363f77d3b0c4a2d0577a2211ffb61c1caff7ce7e" Chinese="IP地址">IP地址</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="7ab437fbcd73859991ad73e70d5724ad863c304f" Chinese="255.255.255.255">255.255.255.255</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="4e9674c3f5d6100e475a4e410d813d624d4e7392" Chinese="显示屏地址">显示屏地址</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="ab7950cec61f4b3c4d7826e3202b843ea5c921b8" Chinese="通讯方式">通讯方式</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="cd3032c641eb33758334c2b564b64853afdb729c" Chinese="38400">38400</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="666dc38c02b0719cf9da1409aa49a089573da5d5" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="6c88b41f6d0b79c5e35e9b459ed7b0d2dd630bb7" Chinese="U盘">U盘</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="25ddf98aaaf289990e3921817f0a0d69948b1c62" Chinese="以太网">以太网</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="78e09a342b990829b337cd066086b8e6fb5be2f4" Chinese="串口">串口</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="bf3ec7aa5bd5723d6809ead90072417ea6733ed0" Chinese="...">...</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="e05c8a8551e8e2fc4769fce5975f4dd4058ac375" Chinese="走线方式">走线方式</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="f5b525ae78612feab9e0408f25f943930ac80544" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="dcf6173704f27a942ba74569db88cea0ede99342" Chinese="扫描方式">扫描方式</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="b46a8a7864aa5458c60c11078a56eb403a9cf4f1" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="5398ca6a62c96cd814c590a0c29a767c3bd8012e" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="e017a096e15af0fe19ea518187e66d3196162da3" Chinese="数据极性">数据极性</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="d16accd5fb5c68e6e9c2415c97e9f267c9464705" Chinese="色彩模式">色彩模式</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="42b64dcd6d8c6749fe1b6ab59f2aa262200e42cd" Chinese="高度">高度</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="宽度">宽度</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="d74d02d14b2c5be7ff79d5081f4fa1c97f496c7a" Chinese="0">0</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="3b93990bcd2108ad933e9509f4e3cf894dba5576" Chinese="0">0</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese=""></Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="屏幕描述">屏幕描述</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="045d7aa76f3c44bd66a2e12dd7e41f2b23a5fb76" Chinese="">
+  </Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="a4cb5f15f5f0ff091eafd95b43e597a3d7d9a1d0" Chinese="">
+  </Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="5396713fd5fe00f5b8f5ea0d82f62c007266c365" Chinese="型号">型号</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="7731710d3059029b7d7d7cc33485b419a0d598b8" Chinese="产品规格">产品规格</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="ed5ebb7568842d9ec9db2ad3186810c495e03725" Chinese="">
+  </Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="4af6c111de9f8821dc0d87526d4570c635d4bebb" Chinese="添加显示屏">添加显示屏</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="0ffd526106b24a75e439b0de0229ed54fe033d74" Chinese="删除">删除</Record>
+</Root>

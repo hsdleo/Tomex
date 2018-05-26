@@ -1,0 +1,1228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Record Formid="" Controlid="" Chinese="">null</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="76025624d063b6928cb360be70d1ff09d8e6d225" Chinese="跑边设置">Ejecución de los ajustes secundarios</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fb5363ed29809a4880eabd040bf7342a988a5c3b" Chinese="速度">acelerar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1cf7c15aa4a1bedf782d60a147363b9630fa0898" Chinese="使用跑边">Uso corrió lado</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9093bb1799ab817bc812f40df17886d35ad71068" Chinese="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|">1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d92a0490bed821970312e47d3b1c4f526ccc8297" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="311d32e1fc636f54a68682baf33e3bb579624052" Chinese="模式">modo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="485c95d13aa3cf7339c18163e43e64bcdf37d8b1" Chinese="跑边">cara de marcha</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f8d87eb1a1e912c8932e2e4b65048e1d79fed5ee" Chinese="静止|顺时针|逆时针|闪烁|">Naturaleza | agujas del reloj | Intermitente antihorario |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="18f45ed6a83f5733469cb78a5a5055a25afc2f7e" Chinese="表盘属性">Marque Propiedades</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="02a5ae8c22e9e89b8d6aab6e1c3ad0e0a7773cbe" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="24189ac1c91d1b04b6b004590ed6f284ab897f21" Chinese="花,开,富,贵|萬,事,如,意|欢,度,春,节|喜,迎,新,春|金,玉,满,堂|招,財,进,寳|岁,岁,平,安|竹,报,平,安|年,年,有,余|欢,度,国,庆|春,暖,花,开|紫,气,东,来|">Flores, rico, caros | Wan, cosas tales como, Italia | Huan, grados, primavera, festival | hola, bienvenido, nuevo, primavera | oro, jade, completo, hall | trick, financiera, Jin Bao | años de edad, edad, plano, Ann | bambú, prensa, plano, Ann | años, había, I | Huan, grado, país, Qing | primavera, caliente, flores blancas | púrpura, de gas, de este a |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d1145b6ef9bf9d51f8dc9da8a3abfa3e1031fcaf" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4c6e69358ebbfc44c539c94e6b3f325dd1f3b93d" Chinese="+|-|">+|-|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bb01cc6fc1e94c3f8fadf7d5092941d34021e6ae" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="33891c4d996b1d89d5de3b5d939f2db2fb310f9a" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="793111072a178472909ce25abec93819f95dda6d" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1211b9a07285da66e5721e5093f5dedd15a2956d" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0f2e76fb5774fc481bc834810561940fef32afd3" Chinese="U">U</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cd58bfd0771787661a185eda8d52f41b9bdaa9f5" Chinese="I">I</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1151e37743391472d3fdd8af25fe8f38671f38f9" Chinese="字体">Tipo de letra</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ad900bd180c790fe3efff6072f08972aab276d18" Chinese="B">B</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="05fec14cd98338dfa43d420c983dc7eca7ad69b3" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7fc333b12e5c21c44bc9ea662f92f65e7b0bd79c" Chinese="字号">Tamaño de la letra</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="681b50369581848fd6fb79689238872e6bce49b1" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d2df789f2c45959dae30ed617c60de735ed42775" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9fcf1d301c9deb3aa5d3703b2e301e4574ac34de" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3ee405c61d5e8825d7d7c20a186cad38e76a20da" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="87b2ca107f9991a0751a8c8553defc672bc73af5" Chinese="说明文字">subtítulo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7290d8b59f10a6a888d4d301807a2a87f2a6f133" Chinese="对联字">palabra couplet</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="21c65682a3bed559a62c696ced40c8626664ca3c" Chinese="四角字">Esquinas palabra</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6674a83e9579fbe573959445b353f7af61ee7bd2" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b453ecbe93092dc1477fb4c4977ddc9ea4870cb8" Chinese="固定文字">texto fijo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="31fa67a2ad79b9609adb9ecd2b37e543124d1111" Chinese="时差">diferencia horaria</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="76331a68ae1d86d27b3f4c5ba01bc083e0f5f52b" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f534b6f8a8e7d2b7b37bdb1b184d3401fcc760fc" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7a5a6fd9e474911ee220f10c78d601f2c8c21d26" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1199293024faf0add9f6d929ff1d4d32faa49f01" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cf94601de786e2e629ef98c297dec71ba5505373" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0443af51d474435f09765b03854b7c1bfda8196a" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a256a194f114f77320090f2bbc6486f7e0d3d679" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8f9c69968a09f7e66c779121d5b6d709ce7343c4" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2f6e2616a8b5e2bac319785d418cdfd0e3ec8545" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="dffbe7f12b97b2c479cda68b6aaae4b525a1ac83" Chinese="W">W</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="787a8445e1bed94d32d49a8a35900faccc96910f" Chinese="W">W</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ef2f12f86b5bcb7d66f9157ac3f4c7ed4250b5b5" Chinese="W">W</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3a925cbb24080efb1221ceced31c9bf5029e787c" Chinese="刻度样式">Estilos Escala</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fb8f56a0556365f7be26c7897f483b369a348477" Chinese="圆点|方块|阿拉伯数字|罗马数字|">Dot | Box | Árabe | número romano |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="77ef9ad09f8b4ad4819393a8a4907544ee47ec22" Chinese="指针样式">Pointer Estilo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0b8e84be417e8ad1c365fcca4b001661bab8bb0a" Chinese="样式1|样式2|">Estilo 1 | Estilo 2 |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1c22a21af884da5014081896407a89f5d08c2dfb" Chinese="秒针">segunda mano</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="60351ff4be88e905ca15d27bed3a6bbcdcf5c12d" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7985c4650d30c2ca4d0afd37b5ceb81b1eb8f677" Chinese="分针">minuto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d9275a89f2784e0c24a87efcf21f04bb4bf8f6bc" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="be029a13f0670abae2bc1885e27b0d5df9d3f02b" Chinese="时针">Las agujas del reloj</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cd3465880fb620b2c45c57c1fb10e9dd902a9320" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="76f5d9c4261147c323225fe46e85fe585a8df9d8" Chinese="L">L</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2477819ce1d1475badaec8ebe6d34ae5e5a2e660" Chinese="L">L</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cc2d405d8a11062a86831420dffe35767897c249" Chinese="L">L</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2a8bec4b217bbbe92fc127c15685d20ea276bbc0" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6336d6bd88ae3fcbb9062eb66370d7bd774b3ab8" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="45f681c44825a05d2adae1b2a0a1674b421ca50e" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9153a8c977757a9d5ae75454d7a8091ae8f179a2" Chinese="分点刻度">Escala Puntos</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ffc2c3814fc1dcca80286a5e157e56f414188fb5" Chinese="整点刻度">La escala de punto entero</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="10b61f979006e812a6a034dafe2744c9f6fcd2a1" Chinese="369点刻度">Escala de puntos 369</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="11d2008f6c0447f548e5f97f768c9802e45d76f9" Chinese="计时器属性">Propiedades del temporizador</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1e14ef35ac5879887d0b2166e58253da3b07950b" Chinese="秒|秒钟|S|Second|">Segundo | segundos|S|Second|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0529ffc388411b1f6ef393d9893c88e919ae9f59" Chinese="分|分钟|M|Minute|">Puntos | minutos|M|Minute|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e33931ab6741b0f47b09808d076f16f7c16d5a52" Chinese="时|小时|H|Hour|">Cuando | hora|H|Hour|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fadc4eb6edc4e19ff731ebafff064ef7007278b9" Chinese="年|Y|Year|">años|Y|Year|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0b80fc7e46cbf7d1a8f2d58ecfb1d9d590824ff9" Chinese="天|D|Day|">día|D|Day|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="289ac82dd6448cdc4ad22bafe11b0a5dc70126fd" Chinese="提示内容">contenido Tip</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fdb4cadd2563d124cfd4d28b89100866c1950fde" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="234e1c0eee1826830d8954d972940e26eb814870" Chinese="0|1|2|">0|1|2|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="db65d6a9384dba777066a408b9301397f76295bf" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a299b3c2d0dff1058f51624573bb9434582128dd" Chinese="0|1|2|">0|1|2|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="730ac8cfc964bbce55f206b05f47dce3a9ab4d3f" Chinese="U">U</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b187f7f34593f02104303d00fbde22802365a5cd" Chinese="I">I</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="794fcafa3ccf20cbba27daf34a628471c6c810bf" Chinese="B">B</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7cec668c04f340c3aa67d19d6503907b132d52bc" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7c02d3827dd69f4352da1bdeffbf423219b5f127" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4906c2dc5bfa002435acb16980247c03ae00512d" Chinese="单行显示|多行显示|">Visualización de una única línea | display multi-línea|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cb7051ca40b24ae4c6b8ca3ac5b520a9e457c728" Chinese="目标/起始时间">Goles / hora de inicio</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="40f51b95a2808a19dfb28ad153266ed3826bab59" Chinese="年">años</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a10528a99127645dc83677c24b17875a687fc4d5" Chinese="秒">segundo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="241d5ecf2ebda46d997097fe11675a9fa5aaf5c6" Chinese="计时模式">modo de hora normal</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="dadde42716cfc33d21a11b70f1c4557c2df018c6" Chinese="时">tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bf025c4f0b939ab6d6c667f6eeaaf40e874f2073" Chinese="31">31</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="31">31</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ff0a73dade66fc576c780739dde665f261aa6c69" Chinese="23">23</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="23">23</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="67d2369f02313d970e446d74ae033ffb4421ed89" Chinese="内容设置">Configuración de contenido</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="617b0a5b3f4e27670601adb0130a058a085b49bd" Chinese="日">日</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f8fe3104b32247cca1c9fc874e0e731827d0e00e" Chinese="31">31</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="31">31</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="837397588222f6e5f011e83091603db79fa2dd0a" Chinese="月">月</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bf814e118904848ef51d21b5e4e9da48a782fc6a" Chinese="12">12</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="12">12</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7501ee089ae716cd882b90cec362002a647793d7" Chinese="年">年</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="36def469586cd6c31fa5057ebdad1c439f2f2182" Chinese="2012">2012</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="2012">2012</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="42c19fe31632f9792e76cba3c123451269e6ab97" Chinese="倒计时">cuenta atrás</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0a697536f13c7f3aacd838762d890c60e3d5eedf" Chinese="正计时">Es tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="df62b9d61bf4f9f34ca7dfea1bed07b225a6d4ea" Chinese="秒">秒</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d723e9c195487b3c855dea2c96438e8fc23c49e5" Chinese="天">天</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f46c9708720bac7655cf268155f72045fa865c97" Chinese="显示选项:">Opciones de visualización:</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e72678b8b541350c5ebc86246f10556aebd5c672" Chinese="时">tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c7c3848da048f0e89bb3ce7a3562f51215de9e9c" Chinese="分">minuto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="edcffe970cdd4260cd7893b8ef8462ca22ed33b9" Chinese="跑边设置">Ejecución de los ajustes secundarios</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b7b80b9e132371eb2abc347a9821bf42691a50e6" Chinese="随机">azar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="771be76259573f11ce297d9e466aa814414eb735" Chinese="使用跑边">Uso corrió lado</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a20321c4e939d5b2a763efb871863038233ebf18" Chinese="随机">azar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="67d6971416c5457f87b77819b3074e9750596572" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2c0bfce310e3776dc2b7af7ad23d10ee67282652" Chinese="速度">acelerar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2b5c4f0886dbb4a15ac9d30f2fc7f6a8e03ef745" Chinese="跑边">cara de marcha</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ea4724a7960f5fd4870384b4886f677ab4c7b73f" Chinese="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|">1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="de45547ee4ba9b193276d677dfdf0ea4249dfde6" Chinese="静止|顺时针|逆时针|闪烁|">Aún | horario | izquierda | parpadear |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3e46abf155b706588f7e593eaad91eed74a37250" Chinese="模式">modo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="13438fc4129a1133b429b44f751c6f93c196d001" Chinese="时间属性">Propiedades Tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1628d238b0f638ea12a2bc789a7c4fec4d8011d1" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6e9702a737f798def21a20e640926abc9d08f601" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="61c985aa857bd6860241432b1729087fbf4f54ce" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="48c4098d028ae753b95aff6b2a833a8758718662" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1abc7f8a8de43ef32983c1d1d205e937efaf5bc4" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="773ff131f583c36ceebf1ca455b75b9de033e6e1" Chinese="U">U</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d372a393a31e331ac3fc1ea6e9e6757d6862dfd1" Chinese="I">I</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2e3eaef88e7d0e2d4b94a9e82b26bb0586833d8b" Chinese="文本">texto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2d8965eb31ddf9b22c139628d26b8f2eb1c27e18" Chinese="字体">Tipo de letra</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cefd35193f88e641a822ef2c4efb8782c823b919" Chinese="B">B</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="30e93010d2b80ac00794064817f3047c285a212c" Chinese="单行显示|多行显示|">Visualización de una única línea | display multi-línea|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7fa950be66912ca43aedd048e8ecd253ac2c71b1" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2fe746e4973b8ff60ac6ea920c86a7fb3657c904" Chinese="字号">Tamaño de la letra</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="062712483084a31bc9245a6718b89206907973d6" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b39e1b8a338b60b8824ad8cde59dac81c58ff7d7" Chinese="0|1|2|">0|1|2|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9e64b5b988865b6236f25c15768d40ff5391c22e" Chinese="HH:MM|HH:MM:SS|HH时MM分SS 秒|">HH:MM|HH:MM:SS|HH MM Hora Minutos SS Segundos|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9abb6fc3f3c7db0e414bf50f97587e7452bc0160" Chinese="0|1|2|">0|1|2|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e58b2cc0350861227a39ece5d0aec39b0b50f3f2" Chinese="星期一|周一|Monday|MON|">lunes|lunes|Monday|MON|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8ebaef501feb10181f278020593b4f43bad74492" Chinese="0|1|2|">0|1|2|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c8158925c6c97232b7807115d9f902c0e06779fe" Chinese="0|1|2|">0|1|2|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="423dc25613ab69b679c8c1fdb8b725262d546cf1" Chinese="YYYY年MM月DD日|YY年MM月DD日|YYYY/MM/DD|">YYYYañosMMmesDDdía|YYañosMMmesDDdía|YYYY/MM/DD|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ca6165627ee3f66c518e4d71d517541087caffc4" Chinese="动画属性">Propiedades de animación</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="dae602020b402444a3e2be2a0e6acf47ceb1c2eb" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d028b14f9d8e1089fad72b6dccce92a26c542fb2" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1f8c455731a42884c1d889423a115256d30b18cb" Chinese="开启预览">Vista previa abierto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0ca9c29a89b0c65c56616347c04116282792f939" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c805e65e43babd53e90fc0c0a8c42137a2cb5662" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0900a1aee929b0d453ecc7830fc7bb1b0fedde1a" Chinese="U">U</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0f2c7877e5971b67eb264a1faf1d8d6ee881ac41" Chinese="I">I</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1fb2e4594ab62a6053df86d457b2fa3643e0f036" Chinese="B">B</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e9e5ca8a1cd2e10d9bb0273777c68de9f65620ca" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|36|48|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|36|48|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aaba624efab9c204b3b3900cf89ffb5d72b12a2a" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="04b0f8c9dedab7552eb1d50e9a3b6853d786d268" Chinese="特技显示">Stunt Show</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="677cb78789cf94d9d87aed5095556c8de137b67a" Chinese="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|">1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="12082a3b9b6dfa6f7e136a0dbb668aa7dfcb97f6" Chinese="循环">ciclo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c394456573836855d0bd125d5f9331b091ee080b" Chinese="0.000s|0.010s|0.015s|0.020s|0.030s|0.040s|0.050s|0.080s|0.1s|0.2s|0.5s|0.8s|1s|2s|3s|5s|6s|7s|8s|9s|10s|11s|13s|14s|15s|16s|17s|18s|19s|20s|21s|22s|23s|25s|30s|35s|40s|45s|50s|60s|70s|80s|90s|100s|120s|150s|200s|500s|">0.000s|0.010s|0.015s|0.020s|0.030s|0.040s|0.050s|0.080s|0.1s|0.2s|0.5s|0.8s|1s|2s|3s|5s|6s|7s|8s|9s|10s|11s|13s|14s|15s|16s|17s|18s|19s|20s|21s|22s|23s|25s|30s|35s|40s|45s|50s|60s|70s|80s|90s|100s|120s|150s|200s|500s|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9ddb60c89af27e2f41e71795c0850e3079e3eb5d" Chinese="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|">1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="89b0871bd6c68c6134259b3a1fa512b979b6e0a4" Chinese="停留">permanecer</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4132ff1a003b11771b4ce2a5a049256cf724ad40" Chinese="速度:">acelerar:</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cc7824777853a87740f5c54e5add4e166428fd40" Chinese="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|">1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cb8bcb302baa3b3d6cfcfd47e768333f57c3b717" Chinese="进入">entrar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8b4302e13d460bb636025350dc1e7a7df31110d7" Chinese="速度">acelerar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bcfd53e7ffba7c10545079939c55d49032aa49bb" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b8234da73b39d219498e91d5d479c558d081dda1" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e126b61c6782211555b10d1dabd732595809763c" Chinese="退出">dejar de</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="539e0daecd568c74255542f9a434e376087c78bb" Chinese="图文属性">Propiedades de la Foto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="50bedffb5dd73da0652d9952a823f02053aa1f0b" Chinese="↓">↓</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e4d20ccf335e209068dfbeb1625768a024deadbb" Chinese="↑">↑</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0888d229aa28b432efa7fa8cbde3a388c1719acf" Chinese="删除">borrar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="84349f06081fd8dab04fcc86ed494cdbce499ef4" Chinese="多行文本">Varias líneas de texto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7b0b6522f1b5355a951ed90302aab8d669041355" Chinese="单行文本">Una línea de texto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="54a5f7882a444159a90147ef5ddf487e594ddde1" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2195c813c4cd954012f98ec5ea2d5a5446380ec9" Chinese="噪音">ruido</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f9124a0ed9331ae77b7b1fb5bfdd78c5af2b7f1d" Chinese="上移">mover</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f9655321e89d481cc46af55b584173d79bd85a32" Chinese="湿度">humedad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="40dae19a89eb3041ef8584eb726784817b025d9b" Chinese="下移">abajo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ac023d796cbac47494f093f4c88cef8fc8acaec2" Chinese="温度">temperatura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c010a3a42a648b427d8b53a4578b87f6133534a0" Chinese="农历">calendario lunar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c6dd63e8de889693fefc02269fa255b800c7e527" Chinese="表格">forma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b336ca4e0daf55522613dcc65189c16d20f50a9b" Chinese="计时">sincronización</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4b0f7f46628154b7a8525b38b570493eaff2c965" Chinese="导入Word">importadorWord</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="34b32334df2a651fa51ea0567452241a6ab6d2f9" Chinese="表盘">marcar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c3017cd8dbb67a2e9f4303c870089f8df18546ab" Chinese="动画">animación</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d3dc256fb44e9ba199a4f2392e2731300a9384fb" Chinese="时钟">reloj</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="723d0b7c6990bc9c5ec50940ba8691410b78ad12" Chinese="导入图片">Importación de imágenes</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="75b4cc45b1309b2373cd57006c1460ec3b17f57c" Chinese="截屏">Captura de pantalla</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a80b35c0fe28b4267f90869c885154128d0795af" Chinese="删除">borrar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aa4edc21a306c72e7252cf184e3d67dc5ddfc7c8" Chinese="导入动画">Importación de animación</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a4002d3e49dea4473d7a7fb994e2efaccf5700b8" Chinese="节目背景设置">Configuración Antecedentes del Programa</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d81835e24f8e4a56df7f06e21dffa2f23c380885" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e3bfc2db029070beec8e285f129cb588ac27ef81" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="50d33e64321486de705fa06d883489432200ee91" Chinese="效果">efecto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0efd28caaaf11ac17db106e812d55fed51dc38b0" Chinese="尺寸">tamaño</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cf421ecbc9b6d8fc8e82bc13dfcf2a80f0a5e879" Chinese="使用背景">Use Background</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="09b108bd61c81735339ef51f981cf7d9e6565843" Chinese="居中|平铺|拉伸|自适应|">Center | Azulejo | extensibles | adaptativa |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2693fe7995f26e3740a79a80f3e7ea71253768d7" Chinese="无灰度|4级灰度|8级灰度|16级灰度|">Sin gris | 4 niveles de escala de grises | 8 niveles de gris | 16 niveles de escala de grises |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3dadb6c49c2649671a376ea7a7a27ffde525db87" Chinese="自定义背景">Fondo personalizado</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b7dc368b6e99f2a6b88351984a7725694bc898a0" Chinese="灰度">Escala de grises</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0e68b0a421fb18c7cad7f7671ba43867d08b604b" Chinese="速度">acelerar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4e829798861420368734c4ad5919f1e153f61d17" Chinese="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|">1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aac4a93c4e5581ea4bccec280c83020b3f6baa59" Chinese="正在生成动画">Ser animación generada</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="710583e32944f2716ee76c51253ebc8d40e07de7" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3dd436966f83e37fc9f5cc9552a045c21133f9db" Chinese="节目列表">lista de programas</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="93df1eec34fc4a2d1281b12dadb687afdf821642" Chinese="↓">↓</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f40538e6ba38768fb55f952f918c57ed23f9cc14" Chinese="↑">↑</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9e030292384e2dfc51c4aa37aac67a3915f92119" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7731710d3059029b7d7d7cc33485b419a0d598b8" Chinese="屏幕属性">Propiedades de la Pantalla</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e8fbc9f119cacffc2c9f05724fbb8dfc2a6c9dd1" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="693d2116b6b34fc3eea81446e91b339f89769038" Chinese="节目总数">número total de programas</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c31fc7dbbb93a0ea334dffebdad2ea41ba9e53a3" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e05c8a8551e8e2fc4769fce5975f4dd4058ac375" Chinese="卡信息">Información de la tarjeta</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="858d05df63af7f92cf73454b6b1c653a77cf4820" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e017a096e15af0fe19ea518187e66d3196162da3" Chinese="通讯方式">comunicación</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="77c02798d7c6a90b7b319c42abca986ebb59cedb" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="屏幕尺寸">Tamaño de la pantalla</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7f07a191076eb9d5955c57f394acc790a12ee05f" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="屏幕描述">Descripción de la pantalla</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f6b16b96c07154b039d05d595bad664cfaf82cc9" Chinese="动画预览">Avance de la película</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="53e82c50618202237b5f4f1f23936de72515f459" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7b527840eecdf2c3d6aad8ecf78ca90cf902ad09" Chinese="节目属性">atributos Programa</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cfa211d02f2bbadbb89cca4327432047f198405e" Chinese="定时播放">Difundir periódicamente</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="24dd4c2e99bf3e0536ccbfbc2edb90f928643238" Chinese="分区数量:">Número de particiones:</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bff62e577fe1100c20f7e7a1459c2548fd9ee6d8" Chinese="关闭节目">Cierre el programa</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4e9674c3f5d6100e475a4e410d813d624d4e7392" Chinese="节目名称:">Nombre del Programa:</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ca6c1ac81b820257021410bf935abfe6f7f83fa2" Chinese="锁定节目">programa de bloqueo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3030d1ec823fc84e230f9c86de0a8b57a0871315" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="78549079d0d3daf13af591ebe07449ae5c679fb8" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c9c5a180bb6acca27822cf5e98ea6c904756e4f1" Chinese="内容背景设置">Realizar ajustes del fondo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e9203a7b28a32b6267d45aa70bad90e860e854ef" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cb2ba14b1fdda7c7ea4f15410559ce411172f72e" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0a8499b95223298933ef683d1289d43c03e4ae83" Chinese="效果">efecto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="68b68bf868246403f08628f56e85f12ef8185f09" Chinese="尺寸">tamaño</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9fa021c689bea45bf76a9d265a2af51aa5e1b6ff" Chinese="使用背景">Use Background</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4d73a918f983cc2b0744f6e272cbfc70a3f6ee68" Chinese="居中|平铺|拉伸|自适应|">Center | Azulejo | extensibles | adaptativa |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d204c1aeb45d5bc4b096d947dfc301f1cd516450" Chinese="无灰度|4级灰度|8级灰度|16级灰度|">Sin gris | 4 niveles de escala de grises | 8 niveles de gris | 16 niveles de escala de grises |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c4211941206ee28eb770bcb5a4290ab108394ce8" Chinese="自定义背景">Fondo personalizado</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="773cb12f3e36903be49461bedd57b650b86b06c3" Chinese="灰度">Escala de grises</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fc046e76c57d37a378529bda182f8c3c309f5e89" Chinese="速度">acelerar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="15fad228f155cbeb58e28bd065d7099de8206137" Chinese="1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|">1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c69d1a8285e3ec76f332dba5c0d0c27c52de01d7" Chinese="动画特效设置">Ajustes de los efectos de animación</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7c41f06e1dbbe19a75a0ba03fa6f228a9616aa69" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7f9c03c771521b6e691445fdb183eae4781a8ccf" Chinese="0.000s|0.010s|0.015s|0.020s|0.030s|0.040s|0.050s|0.080s|0.1s|0.2s|0.5s|0.8s|1s|2s|3s|5s|6s|7s|8s|9s|10s|11s|13s|14s|15s|16s|17s|18s|19s|20s|21s|22s|23s|25s|30s|35s|40s|45s|50s|60s|70s|80s|90s|100s|120s|150s|200s|500s|">0.000s|0.010s|0.015s|0.020s|0.030s|0.040s|0.050s|0.080s|0.1s|0.2s|0.5s|0.8s|1s|2s|3s|5s|6s|7s|8s|9s|10s|11s|13s|14s|15s|16s|17s|18s|19s|20s|21s|22s|23s|25s|30s|35s|40s|45s|50s|60s|70s|80s|90s|100s|120s|150s|200s|500s|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e05c8a8551e8e2fc4769fce5975f4dd4058ac375" Chinese="速度">acelerar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e6b836d066a12aca4e041a2dd935a78a8290f742" Chinese="1">1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="1">1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="dcf6173704f27a942ba74569db88cea0ede99342" Chinese="播放次数">Vistas</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d3cbb769c63195df8a34d5ce477060addeec69cf" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f0449ef860045ee4d4bb7487a5d1dba54da13f9c" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c569a842662b06961b974ab9c827a09ba5e1aadd" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e017a096e15af0fe19ea518187e66d3196162da3" Chinese="左右偏移">Offset sobre</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d16accd5fb5c68e6e9c2415c97e9f267c9464705" Chinese="上下偏移">desplazamiento vertical</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="42b64dcd6d8c6749fe1b6ab59f2aa262200e42cd" Chinese="字间距">espacio entre palabras</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a4fe893cc71471c37b8cb8f5c55801cc3c9d7350" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="亮度">brillo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="效果">efecto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="035060a13123324154a4e35da2bf85562cfbeac1" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f8485f09aa4797cea51590ac3a295f89daba136f" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c8e223d7a0c97d283081e81f5f8da329671a74b3" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="42b64dcd6d8c6749fe1b6ab59f2aa262200e42cd" Chinese="播放次数">Vistas</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="026cdd160f6d1ace4d2b83ddcc091a8b5ade01e8" Chinese="1">1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="1">1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="87acda97fe10bef6d26192c52ed838888d7b2246" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8af67b36d2812bf811501bf4b0247a6fc9c14868" Chinese="播放模式:">Modo de reproducción:</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="207a9e232b026132f2f0cd61e09a454e0f9212c9" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3ec4c13ca6f3beb534deb41d4bc08adbe906ec6d" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="de80c913e2e404708391c80f5c49342595d208bd" Chinese="时">时</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e04a102e917d8497fb315e6fd405258e8a42f85a" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8f607c87598feaed9a23d7c3ea9583936664b6c1" Chinese="播放时长:">Play Time:</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3ee1c28ab4531deff0423cf0c74720b6a3b101ef" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d516fa63ccf0cfd3b1a8dbb1f27b4d42b7a8a7ac" Chinese="天">día</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4f595aa92dfd90fb3c1cd3f4f5557f70fb2e4bf1" Chinese="分">minuto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f10535ec4733e2b635c2088020a3b5d2a0615bde" Chinese="秒">segundo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="deda5427f6ab9647e68795e909a4ca1865d1d613" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="39983fe42409443882e015c408031e5b32a54e40" Chinese="按次播放">Preste Escuchar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b75864e02036004bd4c88a18eee7c1ff32209175" Chinese="按时间长度播放">Jugar en el tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="86c1bb1cc2f3b2607e4871dd49d183102edf2729" Chinese="按天文时钟播放">Jugar por el reloj astronómico</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="81ab1000df5a288cf2f2b20e38d74fc50e10a2b6" Chinese="湿度属性">propiedad Humedad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="62a12540d77baccab4087d15869eac18e8bc5e54" Chinese="无输出|高电平|低电平|">No hay salida | Alta | Baja|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3f6c0a37af8a4799fd429e59f5b07c52d2df0696" Chinese="低湿度预警值">Menor valor de alarma de humedad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="90cce1f9334bd199f2794aeb6c2a9fd356fd6777" Chinese="报警输出">salida de alarma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f052188920a0819c2498d47bd9a6072ce2e742b9" Chinese="显示选项">Opciones de visualización</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="281d66dfb511f474989a76084c9efed30163785c" Chinese="变色|闪烁|">Decoloración | Intermitente|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="93a8ddc899ba419b3713097f63221212dc0f2172" Chinese="提示文本">texto de la pregunta</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="13fcc82357b9ea2beb163c2e9af45169133cdca9" Chinese="报警方式">alarma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="48675a6731ab6c56528afdc811ca2c3568be0a5e" Chinese="文本设置">Configuración de Texto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1ec599cd95392f2c5216d4baf99030162cac69ac" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="505d4f8f17cfb72567c31ed1926dde4349498139" Chinese="湿度设置">valores de humedad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="993e7a785ddd45c24c617e66f264d0a92a1d2cf0" Chinese="湿度单位">Unidad de Humedad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cbb57ea6648420f601068b6feb2afdc8b8eb04a3" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aa134e77d5f90512f1638f8512eeb54143500705" Chinese="高湿度预警值">Valor de la alarma de alta humedad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="427e3b46dc51b9885dc5f970b161a3e4cf776eda" Chinese="温度属性">propiedades de temperatura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="739b323bc7f8b2532a0f5ca345c85546f0a53514" Chinese="无输出|高电平|低电平|">No hay salida | Alta | Baja|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="301aa81297a27916cb2929a6c00f6e666adc3324" Chinese="文本设置">Configuración de Texto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="351c5f6ff3602ce5dbc79385ee166d15e180d8b6" Chinese="报警输出">salida de alarma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="97db4d45fb0b71a4bbc1a0d8658caed7cdebb091" Chinese="显示选项">Opciones de visualización</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4bd538d52da4af4df69107814bf531bf5ff450b8" Chinese="变色|闪烁|">Decoloración | parpadear |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4bed463f417eceb4e752a9cff39d2923ba67dc6c" Chinese="温度设置">ajuste de la temperatura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2acef829e8b820542b932abbe4ea67e3e5c29068" Chinese="报警方式">alarma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="be7ffc35fa61579aea34e902abb1484830c78af8" Chinese="温度单位">Unidades de temperatura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e2996c5967e64eeafb0effe5b0baff2d45a72e5d" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5fbb398ab9cc2cb26f56c7bb5cf106ea01dc8f7f" Chinese="高温预警值">Los valores de alerta de temperatura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="565fb230a230311685b15ee244ad0ecc7f7c6e4d" Chinese="低温预警值">Bajo valor de alarma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e118ad6800adbc21bbdedc7e53a6922529923ed8" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9797ea41ab5f401feca1a7087051c7ee7aae6d1f" Chinese="噪声属性">Propiedades de ruido</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8cf3e095f8fcb0b9b5d02d084d1c5462701c6d57" Chinese="无输出|高电平|低电平|">No hay salida | Alta | Baja|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c2e5483b7013118fdbeeef35de29d12415b2cac7" Chinese="选择字体">Seleccione la fuente</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3590eadc13fb21587eed898078d72ddca7aa769a" Chinese="报警输出">salida de alarma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1e19c078187c1d50bfa3c82a91d390e9cf9db8c1" Chinese="分贝值">valor Decibel</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="64e521def8b5521f9943b5198eee4651079b4cea" Chinese="变色|闪烁|">Decoloración | parpadear |</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f1eb690d6463c196e4e9b28fe46ec7de146c381b" Chinese="分贝单位">unidades de decibeles</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2a9d940252011b412439ff302bb0df8879a42470" Chinese="报警方式">alarma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f7533d7933438264312ba4d7fc2addd5f8600eab" Chinese="提示文本">texto de la pregunta</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e1ba40aa5e7373f69ae866d87b4819b2b62fcee9" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aeb7ce09262839d516996584a34af360047bc1a4" Chinese="报警最大值">alarma de máxima</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d91d5f3d186e98ae6280c07b3a4ee514ff16f7da" Chinese="报警最小值">alarma Min</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7ee471da844fa8603eea34e02b4a8d64334efcbd" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bdb3027cdc0a292256d84b41d2877e69a40ba90c" Chinese="zhGroupBox7">zhGroupBox7</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c329522253bd6686ab245fd3b39ae2cf0e00f3e5" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bd4b8953ae26bc6744d2d0cdfe64a68033093478" Chinese="简写">logograma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6f27da49ea5b47cf33a1d4ef81a7f687bd09664b" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f28e92a8e48bd91ca8509fb114c7703f446c965a" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="acef04fbe9677cb24ef94182e6ba2d05dfcc931b" Chinese="联动">vínculo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="27106be3867f447c18ff0a809606a540584403ce" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7aa78de5a8ef065fe53aa34f27ea15295c807d68" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2d71146ade9c3f7af435689e33bfe672d8a0b526" Chinese="高度">altura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0c785386981a099145d7a0485ea18215347a84ee" Chinese="宽度">ancho</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="02a9e2d0b35cd61eed914a5370be76f98041fb9b" Chinese="确定">determinar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="55a7aad79036deee0c0c8b5f193f24ab7347324a" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="186cf2b397464ef13cd5f53dbbd8314560d2da66" Chinese="S">S</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0900a1aee929b0d453ecc7830fc7bb1b0fedde1a" Chinese="U">U</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0f2c7877e5971b67eb264a1faf1d8d6ee881ac41" Chinese="I">I</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1fb2e4594ab62a6053df86d457b2fa3643e0f036" Chinese="B">B</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e9e5ca8a1cd2e10d9bb0273777c68de9f65620ca" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="900bdbc90fe25c526649b9aaccc8c1ac9b8d5cfa" Chinese="大小">tamaño</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aaba624efab9c204b3b3900cf89ffb5d72b12a2a" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9f3c5551df2168ce22518927a87808e1c02f22ae" Chinese="字体">Tipo de letra</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="56acb4d3fe2c497417079e15fe455d9c4049b111" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="88485d7a4644e12a0daf0f20b8758952d6d2152f" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6dff04e591e02d65e33f16bf39d8df6560bbef05" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fe1898e9b8a414ddbbeb382c79475fb39103a792" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d16accd5fb5c68e6e9c2415c97e9f267c9464705" Chinese="到">a</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="10859551d33c46094d3c1c0017f3a09cf96a4587" Chinese="按周">Por la semana</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6ae4822c91588b1adbbc7520ff0b85a0c29ce032" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b0df87b52eb761e0688e5cca9a16789cb8281fb7" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="64d58c07e8df0489d509bd260261673faf6dcc89" Chinese="星期四">jueves</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="43d32c7f5d8acc9a551ad084468016eb63b4a6a1" Chinese="星期一">lunes</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7af74f8fb22db5c4d323016a16cef3005b93ef3e" Chinese="星期二">martes</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2049f4a60ec4cc664cfaf815067293e435730237" Chinese="星期三">miércoles</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6a1d37e9fee68a330526bfaf82e8f3bd2862bf6e" Chinese="星期五">viernes</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0b075e976b09965cf561422f126ed19fd5b3b941" Chinese="星期六">sábado</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="30d778d15df28011a4ad68fe762ecb4c1f493da2" Chinese="星期日">domingo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="0d82ed63899bacf764e4a4bff1907c7ebc0812ff" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6dbceff6c00bf6ee547dbe0651aaee79383329a8" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="eb6b127520844ca7dd152e5b30472455107c5d69" Chinese="连续播放">Presentación</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="363f77d3b0c4a2d0577a2211ffb61c1caff7ce7e" Chinese="到">a</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c0bcbc67694cd0979e26211ea8e4db145b2d5eab" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4247d58bc1debe418dd84d4600d329dbaf19281c" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c5e2731fe954feb0cba24a9af474e805980a6689" Chinese="每天">Cada día</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2bf2ed22e3911b939dfaf8c89abf4ab177c0ef17" Chinese="按日期">Por fecha</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="563cfbe8fa9151c23aa162c2f2330a19db9ea3d4" Chinese="农历属性">Propiedades Lunar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4b75b6151c63f132d7d9ba90cf7af2f975e4b72f" Chinese="时">tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b410c2ac7129614ad7f967e7573b32000ac53766" Chinese="显示选项">Opciones de visualización</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6ea69e1e0910be27c8ecc1e4979d086e0c747f50" Chinese="秒">segundo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5a3ea3ada411b3d93ca639b4d21a7597e29dcae7" Chinese="干支">lunar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="728fababfbabe8768341099152c8529b10d9e6dc" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6bfd8b7e8853bccd1d1a772cab4ca6689c4e8c13" Chinese="节日">festival</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c5148368f35c500b8e07457e855e9efa441e5b53" Chinese="分钟">minuto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="85c6f884562ca0cea51e4da60ff5df1d9d4aa382" Chinese="月">月</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="64b48027e5a2c3b63ff3ec3404858b403b6f8136" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="dd536d838cca49b237feb306162b163deb3fc4c3" Chinese="年">años</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="076bdfe9204c2d7ccc5b31c81a06fc2d026c5506" Chinese="小时">hora</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="99c136c0b54d5788b1e1412ecb1bc69c1d29f156" Chinese="日">día</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cac4f8f1a2de1a45f0570a719c584e5875c225fa" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8647622f0be8c833c0b5b437ff1a59647738c6a4" Chinese="节气">solar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="55993789d5d21805f703acaf96a3b4aa98888d4f" Chinese="正时差(快)|负时差(慢)|">Las diferencias positivas (rápido) | holgura negativa (lento)|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f895a534118eebbeaa8659fc78dc135bf3c3b265" Chinese="生肖">zodíaco</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b7d945b27b7b4f85b27d08856fb811b437f05de5" Chinese="时差设置">ajustes de la diferencia</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="40ab9a8f575258311d3614d9b71905198199a9a7" Chinese="内容设置">Configuración de contenido</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="21dd9c3f97098f8f9a7c6d94735faf79a9ad914d" Chinese="节日">festival</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a116d3dc7f2e8bbe753fc29b6d36f2e774cca3af" Chinese="年">años</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b3e1ab87c3dbad1d0f1b3902c1e115cbcf2b4ab0" Chinese="时">tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fdb066c8718adf4afb8632c480662f601e364617" Chinese="月">mes</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="830253ebbf9d2d74756660184b1ff626c4d08b46" Chinese="节气">solar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="cdc66dfdcdb42b67b0c573453aaedf53d0c77ca6" Chinese="日">día</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="18fafb320c4945172eacf5bd112f66c058878876" Chinese="生肖">zodíaco</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c5ce3b66b872d2daa9d0b12bf394ea0a2047833c" Chinese="干支">lunar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6df0989af4febbd9853f6fd14a595b4e9631414c" Chinese="分区属性">Propiedades de partición</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="247ee2835f1362fe47e38689ba882d5be4b016da" Chinese="高度">altura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6a8bca399af0e91baeb5c1f7b765ed02bbb20c90" Chinese="名称">nombre</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bfa2fe7db7cc92b521297018e9d95d9640a0d521" Chinese="宽度">ancho</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e0e4052400745d5f47be5cbac8d2954551f9a502" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a50790fd715be3391fd23fa7982ee1777c021971" Chinese="Y坐标">Ycoordinar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="503bff90bce44afd44ebe3465f89f924a6e48597" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="4a6fa5c2c2335985766b592881ffe5943058f540" Chinese="X坐标">Xcoordinar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aba7bc77a9ec5f6dbc713a1c7e2bd856716df1d6" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7fcb4fec5b9ca823f9b2387faf3901dc4e5a81fc" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="eb482b8c84c5ee1812bdcd09696c738f281518f4" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="843194e49fee63c3a6e9f0ab26c923de6a0a8141" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d9e19f5f339dd51af466bc2d5134a55d08fb2d0a" Chinese="toolStrip2">toolStrip2</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3680a6fb0fa9116f31f7ef1ff9257ff79cfeaded" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="01763dc79eee705bc66f54a9f13242b0745f02df" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="272a0a00833bb8168d48f9fd740d3b66538e5be9" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6f09cdd5f5421aabe19f49eebd8f4699f47650d7" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b313fc0a9964f6a097b1d3fd99f08098d2c97952" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="488deb01d3322bbd668f8b0465b5b5a76b232713" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2c591348a286fe3b72dec3702e6ea868c4c3f213" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d8098545d1798789d4992548c43314e71732c8e3" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5d85d7f44a2afddfe7dafbb7d52dcf8d190fbcea" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5bdf66f56a118387b2a6e2dea55b039b5515c132" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="08d68425bbafe8a1bd90e100fd29996f92ef9fc9" Chinese="删除">borrar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9924977e6f90ca4617d96f2722dcb567508ae671" Chinese="U盘">Udisco</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="940c29771dc286553af5415b328984d046badcb4" Chinese="动画">animación</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9713c18eac9f5f1d3e9e6326cdf532a97655db2b" Chinese="字幕">subtítulo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="410e639382b266469ba5fac0517b71d5570b3e3e" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d4198692ecc92b099827c78a71f6a1d69149f250" Chinese="发送">enviar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2f8886a89151d3ff311f5d3bb958dba3c4bbfd01" Chinese="预览">avance</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c41bed9fb7248abea73b6a36168bc50ba80fb51b" Chinese="寻机">Busque una oportunidad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e9c31352888316835a024c126865e3aaed64c5ca" Chinese="计分">Puntaje</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c39bb1a38c51f103a75293007e52c8b9eb7c096d" Chinese="噪音">ruido</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b50192d6959b4eb64549a36e8b1ca48389f51161" Chinese="湿度">humedad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="00760483f5119d110d37081a2838d211a8a6183a" Chinese="温度">temperatura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6930bb85c7ebca3d94c99a0214e16ace493c8c11" Chinese="农历">calendario lunar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3d010ef0104b65f54b71e1919975c39c4a2dd40a" Chinese="表盘">marcar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e46881db7afde0c5d03d8b6e84733e7ed03cb019" Chinese="计时">sincronización</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="acc8d3d53aee4b9959d2ca76d3518cb7d932d55b" Chinese="时间">tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="312a51cf77040e94a801814a64aea3e8cdbd4677" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="272c16672e224d19aa8937b72a05388380b021d9" Chinese="节目">programa</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8d06b20e96af1c1e3c47c5d6cbc6012e218efeb1" Chinese="保存">guardar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8ad8e79217c12efcd53dafae115b71e6103bed3d" Chinese="打开">Abierto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fd4e036fb4520b596009698467d1983be5d9a75b" Chinese="图文">gráfico</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6f82f53e61a3d341997b91dfb91356edfafd8752" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9a0d09193f72e1d804aa1cb15b26dffad06f33da" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="08c4b47fa931a188f58d1bc2e680568566bf6a99" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f072275f44d97977565ab4dedf2778a2ff667f24" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6ab8634e19a28bfa860c6fb26a2300a36d4e3b9d" Chinese="文件">expediente</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a0bef29420ea7f8ae0f895199333d672da5ab674" Chinese="打开工程">Abrir proyecto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="abaf64e67e715b4664e0e107c2c13ab34950c3a9" Chinese="新建工程">Nueva construcción</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="85eb9174cb4b014ffb303804ac08c7618a9a48d1" Chinese="另存为">Guardar como</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e8e470bcda625acb287f0eedd9de04f18ba65439" Chinese="退出">dejar de</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a108d40d4c80e0779ddeaa92f12dce0cfaf73f72" Chinese="编辑">editar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="169f3cb53988cd2e82c637a4132efdf872f1a692" Chinese="添加节目">Agregar programa</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fd8c3c0ed85c136079daefb48ba44cd1b1b4c730" Chinese="添加字幕">Añadir subtítulos</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f039e90724390d677616bcf85163e32e1ac3d460" Chinese="添加图文">Añadir gráfico</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="78ab5bd06e7af8574f30c86b6bca1ece398ec61e" Chinese="添加时钟">Añade un reloj</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e9b1d8a74b17fe25e49898eac051a5916a888b15" Chinese="添加表盘">Añadir un dial</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="1555be5fccd8febd062fe6e4ca497a02b91fab4b" Chinese="添加农历">Añadir Lunar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7c25c50681b17d46af3d00ae401f170a9d5a1731" Chinese="添加计时">Añadir tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a632bfc54d7ae4e7214dc4db86f87363196c23bc" Chinese="添加温度">Añadir una temperatura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d2fcc8f8348b7fc19714752a66318eff18ca5fe2" Chinese="添加湿度">Añadir humedad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7ee1095e3a469e1e5e0f9b3a94f74f9ef2be0002" Chinese="添加噪声">Añadir ruido</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="54549fb2229877024283d4e62c831570bac45246" Chinese="删除选项">Eliminar opción</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9080f52ee86a7094d236bc93f1922c1986898f13" Chinese="设置">establecer</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="aa4183ed3c1671d5f16a57e092cf4efa7a85b079" Chinese="屏幕设置">configuración de la pantalla</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="52b518c62762a540b8f2c7da5d5be9c1573a41e2" Chinese="亮度设置">ajustes de brillo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7afbf129768074a517cc668b3092aa5093b6ae4b" Chinese="校时">sincronización</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f6efebab3947e17ae1f9d8fe5054a67a5010ee9e" Chinese="强制关机">desconexión forzada</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7cc3c61d9c1137a7835d99b6eccf4890a9276444" Chinese="强制开机">arranque forzado</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="c68f673ebc7ace8c3b286f5c4680c6e6eb4e23df" Chinese="定时开关机">Interruptor temporizador</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="72ac2fd1b67ce69ebcc5023c52936571675704af" Chinese="串口测试工具">Herramientas de prueba en serie</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="a79dcd0fedb8cc5242291a66b6df211e63e7abb0" Chinese="系统设置">Configuración del sistema</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="82e484af120206aa228bf754fd1578c18ccef065" Chinese="语言">idioma</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="275db8e0ce86df7baecefd831d6c34fee58b79ca" Chinese="多语言模板">Plantillas de Multi-lenguaje</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7d415b28ef249b09697d5e48df2fdf8ede15a810" Chinese="皮肤">piel</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="6843b5c9c3e96001f4d3c24a3f4430a42979cb9a" Chinese="默认皮肤">la piel por defecto</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="daff01a5917d75c729868f3cec155262c7b2e40b" Chinese="自定义皮肤1">Skins personalizados1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="23e0b2014d0a652d23a495191bd4763897ba821c" Chinese="怀旧版1">Classic Edition1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="da63cffba2e1878269877604ef6353dbf3db0c93" Chinese="怀旧版2">Classic Edition2</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d42c4108e1564eee752079edd09619eea4cd73a9" Chinese="怀旧版3">Classic Edition3</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3a84c0fa49631848967669136ea00ce9b0b1b1ae" Chinese="XP(蓝色)">XP(azul)</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="50c37770b4a418bd332e997f1f3cb71cc6edaf4e" Chinese="XP(银色)">XP(plata)</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7eb7d64484ecda9662b96b0e59270eaee7aa5cd2" Chinese="XP(橄榄绿)">XP(oliva)</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="67a5774d5fd6409a8b19e957f845f11d279afa24" Chinese="帮助">ayudar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fdf0acd64b433a77a91542f3d5eb82045d33fb78" Chinese="帮助文件">Archivos de ayuda</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f37063887b15a8a0304b14c72db9f92691c8b28a" Chinese="关于">acerca de</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="70a7881af4035b516204030eec640ef1b34d3af4" Chinese="测试">prueba</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b1ff680f7e11a592f999d4ae70bb12e82a4c189e" Chinese="获取参数">obtener parámetros</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f63a62dae24b72a78a03e3a3eb48a0ad75bfee4c" Chinese="测试界面">interfaz de prueba</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3e4dc3e2c448f00e5c26db271cc25060e13da8ce" Chinese="menuStrip1">menuStrip1</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9708f8927e2505b16101347fd5a448e4206d9d21" Chinese="字幕属性">propiedad Subtítulos</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="dbde58972ae34ec225a1de3c5d8bf81c1bab64e8" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2ec889abdc8895c496cec5d6bb86f43ae47f75e8" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="549f140bda4c881d2f93f44bab61aae130a65aad" Chinese="+50%|+40%|+30%|+20%|+10%|+00%|-10%|-20%|-30%|-40%|-50%|">+50%|+40%|+30%|+20%|+10%|+00%|-10%|-20%|-30%|-40%|-50%|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="871fb832720d0c827fabe260c2b53d05e9349574" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="602859177a82a84c43ad6703309fae0462bb9b06" Chinese="S">S</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8ae54d0dada8daa202e25ad121e528765214881a" Chinese="U">U</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7da3ace65cc1597a0037209ed650bbe777225fac" Chinese="I">I</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="bbc1f0c890741ff491fe8000b1b9bb339b7e3aed" Chinese="B">B</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fae699b56b84690688a3d1436bfcbaba01bda7f3" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="71e04a4714379875c21a6241c297348139cc1a92" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="33327be00e7d10262b5e149f9d21b2ea53346b57" Chinese="添加节目">Agregar programa</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="007b30534631a29af62ba54fd86973b8833acfc5" Chinese="导出数据">Exportación de datos</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9623d899a0e4dadf76976219844e9e0f0a5b42d1" Chinese="添加分区">Añadir particiones</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="5a327e5ff65774f0c7de1d05c8aaa2b4a371facd" Chinese="删除节目">Quitar programas</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d6b001b3a4da241f65215539dad552242a902e99" Chinese="导出数据">Exportación de datos</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="37a902635c30b5e7780e000e2aa22cc122e818e4" Chinese="添加字幕">Añadir subtítulos</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="d075181fda2556318487b9a21483d1302f02699c" Chinese="添加图文">Añadir gráfico</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2120c946c59daa9dc05588a208e5311226f1f714" Chinese="添加时钟">Añade un reloj</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="36806f2fe50ce41b70b26c76fdc864f700c8c350" Chinese="添加表盘">Añadir un dial</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="409fe72eef2872b62df7745d1f8b4b0aa736a6d7" Chinese="添加计时">Añadir tiempo</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="29c9e6203c8ebeab4bed2e2bac89d6c13a54ba8a" Chinese="添加农历">Añadir Lunar</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="3a9b0e6f031aad2e0ca338ad46fac8dcb7c983e6" Chinese="添加温度">Añadir una temperatura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f995800f9e7ab883b2b3de2a8f0a02d177a9c99b" Chinese="添加湿度">Añadir humedad</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="76e3bcefc05032e6d537e69c4a4eb572f58f5625" Chinese="添加噪音">Añadir ruido</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="b488142244f93cba96fec81322e91be4e258b00f" Chinese="删除节目">Quitar programas</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2a6b18e820372715e237f56361c21e65de462458" Chinese="删除内容">Eliminar el contenido</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="97d1d44a736cb4ebfdf9fc8194020ecc284e8cfa" Chinese="反相">inversión</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="9207a3d49e5828b42a4f54a1a8cbb8d5e44c3ae8" Chinese="删除">borrar</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="f9b481c839e06ab56b16e8e600e56b2cc817a6a1" Chinese="产品规格">Especificaciones del producto</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="8cc26443c997beee7b44b422f1fa0b3f63108cff" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="51742697d7a28fd4ccbf5fadfdc4c9a13d4bf78c" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="38ebf32aa8f6aa5e38d220c8e468f6aaca4047d9" Chinese="读取版本号">Leer el número de versión</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="31fa67a2ad79b9609adb9ecd2b37e543124d1111" Chinese="联机版本号">La versión en línea</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="d3692be094812eca2d207fae341c8776437a5861" Chinese="0">0</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="ed5ebb7568842d9ec9db2ad3186810c495e03725" Chinese="1|2|3|4|">1|2|3|4|</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="40059e6237b38840b39fe32f5e856d479fe1bf0f" Chinese="OE极性">OEpolaridad</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="5396713fd5fe00f5b8f5ea0d82f62c007266c365" Chinese="型号">modelo</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="e23bb39be35258b466037a2b2ff8bd40085c5c24" Chinese="低电平有效|高电平有效|">Activa baja | alta activa|</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="a4cb5f15f5f0ff091eafd95b43e597a3d7d9a1d0" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="045d7aa76f3c44bd66a2e12dd7e41f2b23a5fb76" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="394349a606df185afed506cbaddccdc1885f73db" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="屏幕描述">Descripción de la pantalla</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="3b93990bcd2108ad933e9509f4e3cf894dba5576" Chinese="32">32</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="32">32</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="ab16927f173d4c4c0017587c469edf3cd53455c6" Chinese="保存">guardar</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="d74d02d14b2c5be7ff79d5081f4fa1c97f496c7a" Chinese="16">16</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="16">16</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="3eccca7a51e5dc4f6c4fbbc4e1f6067f5276fbc7" Chinese="加载">cargar</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="宽度">ancho</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="693d2116b6b34fc3eea81446e91b339f89769038" Chinese="Mac地址">Macdirección</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="42b64dcd6d8c6749fe1b6ab59f2aa262200e42cd" Chinese="高度">altura</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="a0a5e2011eaea2a866e9bf2fbb1301820d7a9ead" Chinese="00-00-00-00-00-00">00-00-00-00-00-00</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="d16accd5fb5c68e6e9c2415c97e9f267c9464705" Chinese="色彩模式">Modo de color</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="363f77d3b0c4a2d0577a2211ffb61c1caff7ce7e" Chinese="IP地址">IPdirección</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="e017a096e15af0fe19ea518187e66d3196162da3" Chinese="数据极性">polaridad de datos</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="7ab437fbcd73859991ad73e70d5724ad863c304f" Chinese="255.255.255.255">255.255.255.255</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="5398ca6a62c96cd814c590a0c29a767c3bd8012e" Chinese="低电平有效|高电平有效|">Activa baja | alta activa|</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="4e9674c3f5d6100e475a4e410d813d624d4e7392" Chinese="显示屏地址">Visualización de la dirección</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="b46a8a7864aa5458c60c11078a56eb403a9cf4f1" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="ab7950cec61f4b3c4d7826e3202b843ea5c921b8" Chinese="通讯方式">comunicación</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="cd3032c641eb33758334c2b564b64853afdb729c" Chinese="9600|38400|115200|">9600|38400|115200|</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="666dc38c02b0719cf9da1409aa49a089573da5d5" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="6c88b41f6d0b79c5e35e9b459ed7b0d2dd630bb7" Chinese="U盘">Udisco</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="25ddf98aaaf289990e3921817f0a0d69948b1c62" Chinese="以太网">Ethernet</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="78e09a342b990829b337cd066086b8e6fb5be2f4" Chinese="串口">Los puertos serie</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="dcf6173704f27a942ba74569db88cea0ede99342" Chinese="扫描方式">exploración</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="7448677605ee6834cba30c1aebfe8092d6ee3186" Chinese="...">...</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="099203509057e29e5b156b9a246be4f0654cd84f" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="e05c8a8551e8e2fc4769fce5975f4dd4058ac375" Chinese="走线方式">Método de alineación</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="d2b20ab42d8726852c9a71986ccea185fbaa3265" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="4af6c111de9f8821dc0d87526d4570c635d4bebb" Chinese="添加显示屏">Añadir visualizar</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="0ffd526106b24a75e439b0de0229ed54fe033d74" Chinese="删除">borrar</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="5bdbb5d3e3452d70814a40bf432b0328850ca94d" Chinese="分组管理">Dirección del Grupo</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="3e4dc3e2c448f00e5c26db271cc25060e13da8ce" Chinese="menuStrip1">menuStrip1</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="66072768a879d8502a16d7ba7bdee4bed46bceda" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="7a0f8f4b30b5da66319b479785ac76d6b205f0b2" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="a6eadb24cc8fd75c275864ea1c3584613e719134" Chinese="显示屏设置">ajustes de la pantalla</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="1fbe4b81b899371468e163776854bb24a3e6b308" Chinese="转移到组">Transferido al grupo</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="1f2fecdf85373de96d8fc3c9d01f7ecf807c46d5" Chinese="12336">12336</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="f9b481c839e06ab56b16e8e600e56b2cc817a6a1" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="922f71d870e0e3988acbef7dcad2e1e2af215120" Chinese="最快|快|正常|稍慢|慢|很慢|最慢|">Rápida | rápido | normal | más lento | lentos | lento | más lento|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="刷屏频率">Actualizar frecuencia</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="b49592f3670890e60d3687afac86a75e6e540405" Chinese="消隐时间">tiempo de supresión</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="f992e0cf38e996fabb9d420176fff0ed6dbfa3d1" Chinese="最快|稍快|快|正常|慢|稍慢|很慢|">Rápida | un poco más rápido | rápido | normal | lento | más lento | lento|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="924e3d67bd9f77d7de93a3af606a4dffdafb56b4" Chinese="扫描频率">Frecuencia de barrido</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="b5340fc45af7bdaad4346f796f727e7c277688ea" Chinese="正常|稍慢|最慢|">Normal | más lento | más lento |</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="893fa798dc92c3f075f5951682db1c323404997d" Chinese="1、常规P10  1/4扫 上蛇形 一路数据带16行 8列折行|2、常规P16  1/4扫 上蛇形 一路数据带8行 8列折行|3、常规P10  1/4扫 上蛇形 一路数据带16行 8列折行 无138译码|4、P10  1/4扫 上蛇形 一路数据带16行 8列小折行（上蛇形），32列大折行（上蛇形）|5、1/8扫 直线形 一路数据带8行|6、1/16扫 直线形 一路数据带16行|">1, el P10 1/4 de barrido convencional sobre los datos de carreteras serpentinas con 16 filas y 8 columnas wrap | 2, convencional P16 1/4 de barrido en los datos de carreteras serpentinas con 8 filas y 8 columnas wrap | 3, P10 1/4 de barrido convencional los datos sobre la correa serpentina 16 veces a lo largo de la línea 8 línea decoder No 138 | 4, P10 1/4 de barrido hasta el final a los datos sobre la correa de serpentina 16 filas de 8 líneas de plegado pequeña (en serpentina), 32 grandes líneas de plegado (en Serpentina) | línea recta 5,1 / 8 exploración hasta el final a los datos con 8 | 6,1 / 16 hasta el final del barrido lineal con 16 filas de datos |</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="b3bb5fb5882630b3c72fa3f8836b4446e23a101b" Chinese="选择走线方式">Seleccione el método de alineación</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="77bb3f90705bcea0f741503609807e1885bc99c1" Chinese="手工配置走线方式参数">Configuración manual de los parámetros del método de alineación</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="993168a3a49ed1087eec042b406e872d72e162f3" Chinese="编辑走线方式参数">Edición de los parámetros del método de alineación</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="92855dc19af936926f24104e5a8fee60b18b3896" Chinese="行顺序">para Row</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="acbd8853fc4071909b46cdba46007eb2e18b132a" Chinese="大折行走线类型">Grande plegable tipo de línea a pie</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="2ab1fc8508e6a26878ae19f13e463ab1e59f4790" Chinese="0|1|">0|1|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="3be01582588e8bd7be782d038ea81c7dc9cc4d95" Chinese="1/4|1/8|1/16|">1/4|1/8|1/16|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="957b86bbee47ccee962af44f8bcc0a1542d3d70f" Chinese="ABCD极性">ABCDpolaridad</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="89131f924cb815b77d4c79cb17dae592fedff9d4" Chinese="扫描方式">exploración</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="ae6cd7311230b5377679147d93da620990ec9b2b" Chinese="0|1|">0|1|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="af6635aeafddb5fb4c1ca2b24b4beec7ceeb1bbe" Chinese="8|16|32|64|">8|16|32|64|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="166a0f36825704cff685784a1610e39884c30d8a" Chinese="138译码">138descodificación</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="f1ebd959b7199729854fb3301487a191642d09ea" Chinese="数据行数">El número de filas de datos</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="8577a855dfe9ec69a47fb14852a3c72889999c75" Chinese="有|无|">No | Sin|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="06cab52466c25f751b8a1bf719610fdc55229708" Chinese="直线型|上蛇行|下蛇行|">Lineal | de la caza | caza de|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="7f63eed28f22392dbc9a2edd4915eaa6e7bd8b01" Chinese="LT极性">LTpolaridad</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="81f1b60763ffebe36de9ff9ea259a3de984493cd" Chinese="小折行走线类型">Pequeño plegable tipo de línea a pie</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="7f6eff44112518da7e164d54405988a177b427bd" Chinese="下降沿|上升沿|">Falling | aumento|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="c9209af2768be2012ccd93f12ca252b6b596a491" Chinese="2|4|8|16|32|64|">2|4|8|16|32|64|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="0ea00f52174b22c0fe8829c0416c209a0148d31b" Chinese="CK极性">CKpolaridad</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="c1481728e7a982d4a8ebaedb4453419f6595b3d0" Chinese="小折行列数">Pequeño número de filas plegables</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="ce53589a7aae9e72dca135f81fdc3fa1f63d4be2" Chinese="下降沿|上升沿|">Falling | aumento|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="d1666f71b3d7887d33de265dcd42bc1d1b77e418" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="e537b29dc825cf749dd32c6a1e869e4d3b91d02b" Chinese="数据极性">polaridad de datos</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="6012ba52b8db1fcacf413ee8b7df9b6ee0b665bb" Chinese="小折行折数">Envuelva pequeño número de pliegues</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="c746386de68890bca6d7e04f0df5e75eadea8402" Chinese="高电平有效|低电平有效|">Activa alta | baja activa|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="d0ea01a9937fc17312c6805d3a3d40a79b583262" Chinese="直线型|上蛇行|下蛇行|">Lineal | de la caza | caza de |</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="73d18c353a26cd73dd26f7380753dd5fee7c117d" Chinese="OE极性">OEpolaridad</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="38c11b2f1b3532de497f4ffc411f3df9228fe30a" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="62acfe7b477a0c55fbb640af70885895e8ddd655" Chinese="高电平有效|低电平有效|">Activa alta | baja activa|</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="6133b9dad8924c7ebd0dbe56258eb08e2880f38d" Chinese="大折行列数">Descuento grande número de filas</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="f29b2809bc314470d8c24f594b62d6853e335eb1" Chinese="大折行折数">Gran cantidad de pliegues del abrigo</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="915d304a8b2ed815864b8e3ce30e35cbf3226348" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="7a0f8f4b30b5da66319b479785ac76d6b205f0b2" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="a6eadb24cc8fd75c275864ea1c3584613e719134" Chinese="设置走线方式">Establecer método de alineación</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="bf3ec7aa5bd5723d6809ead90072417ea6733ed0" Chinese="确定">determinar</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="ed1004b92ed03e9322344b226c5b12f18e5e52cc" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="7a0f8f4b30b5da66319b479785ac76d6b205f0b2" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="a6eadb24cc8fd75c275864ea1c3584613e719134" Chinese="选择动画效果">Seleccione el efecto de animación</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="a8ff88cb524590c220075cc5835d78c5c04edf69" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="bf3ec7aa5bd5723d6809ead90072417ea6733ed0" Chinese="OK">OK</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="label1">label1</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="d2b20ab42d8726852c9a71986ccea185fbaa3265" Chinese="动画效果">animación</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="7c41f06e1dbbe19a75a0ba03fa6f228a9616aa69" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="7f9c03c771521b6e691445fdb183eae4781a8ccf" Chinese="0.000s|0.010s|0.015s|0.020s|0.030s|0.040s|0.050s|0.080s|0.1s|0.2s|0.5s|0.8s|1s|2s|3s|5s|6s|7s|8s|9s|10s|11s|13s|14s|15s|16s|17s|18s|19s|20s|21s|22s|23s|25s|30s|35s|40s|45s|50s|60s|70s|80s|90s|100s|120s|150s|200s|500s|">0.000s|0.010s|0.015s|0.020s|0.030s|0.040s|0.050s|0.080s|0.1s|0.2s|0.5s|0.8s|1s|2s|3s|5s|6s|7s|8s|9s|10s|11s|13s|14s|15s|16s|17s|18s|19s|20s|21s|22s|23s|25s|30s|35s|40s|45s|50s|60s|70s|80s|90s|100s|120s|150s|200s|500s|</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="e05c8a8551e8e2fc4769fce5975f4dd4058ac375" Chinese="速度">acelerar</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="e6b836d066a12aca4e041a2dd935a78a8290f742" Chinese="1">1</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="1">1</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="dcf6173704f27a942ba74569db88cea0ede99342" Chinese="播放次数">Vistas</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="d3cbb769c63195df8a34d5ce477060addeec69cf" Chinese="0">0</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="f0449ef860045ee4d4bb7487a5d1dba54da13f9c" Chinese="0">0</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="c569a842662b06961b974ab9c827a09ba5e1aadd" Chinese="0">0</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="e017a096e15af0fe19ea518187e66d3196162da3" Chinese="左右偏移">Offset sobre</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="d16accd5fb5c68e6e9c2415c97e9f267c9464705" Chinese="上下偏移">desplazamiento vertical</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="42b64dcd6d8c6749fe1b6ab59f2aa262200e42cd" Chinese="字间距">espacio entre palabras</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="a4fe893cc71471c37b8cb8f5c55801cc3c9d7350" Chinese="0">0</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="亮度">brillo</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="效果">efecto</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="035060a13123324154a4e35da2bf85562cfbeac1" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="f9b481c839e06ab56b16e8e600e56b2cc817a6a1" Chinese="动画特效设置">Ajustes de los efectos de animación</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="dae602020b402444a3e2be2a0e6acf47ceb1c2eb" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="d028b14f9d8e1089fad72b6dccce92a26c542fb2" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="1f8c455731a42884c1d889423a115256d30b18cb" Chinese="开启预览">Vista previa abierto</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="0ca9c29a89b0c65c56616347c04116282792f939" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="c805e65e43babd53e90fc0c0a8c42137a2cb5662" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="0900a1aee929b0d453ecc7830fc7bb1b0fedde1a" Chinese="U">U</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="0f2c7877e5971b67eb264a1faf1d8d6ee881ac41" Chinese="I">I</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="1fb2e4594ab62a6053df86d457b2fa3643e0f036" Chinese="B">B</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="e9e5ca8a1cd2e10d9bb0273777c68de9f65620ca" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|36|48|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|36|48|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="aaba624efab9c204b3b3900cf89ffb5d72b12a2a" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="ed1004b92ed03e9322344b226c5b12f18e5e52cc" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="7a0f8f4b30b5da66319b479785ac76d6b205f0b2" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="a6eadb24cc8fd75c275864ea1c3584613e719134" Chinese="动画编辑">Edición de película</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="f9b481c839e06ab56b16e8e600e56b2cc817a6a1" Chinese="zhGroupBox1">zhGroupBox1</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="7a0f8f4b30b5da66319b479785ac76d6b205f0b2" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="a6eadb24cc8fd75c275864ea1c3584613e719134" Chinese="正在生成动画">Ser animación generada</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="7731710d3059029b7d7d7cc33485b419a0d598b8" Chinese="选项">Opciones</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="fd905444cb06a14867db021ec107801ba9035265" Chinese="10">10</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="10">10</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="4e9674c3f5d6100e475a4e410d813d624d4e7392" Chinese="动画速率">velocidad de animación</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="1a183dbe438756a81a5fdeac5a187c2eb8e39552" Chinese="0">0</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="0">0</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="e05c8a8551e8e2fc4769fce5975f4dd4058ac375" Chinese="字模阈值">Matriz de Umbral</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="dcf6173704f27a942ba74569db88cea0ede99342" Chinese="帧长度">longitud del marco</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="e017a096e15af0fe19ea518187e66d3196162da3" Chinese="字节">byte</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="4d228251f0a4b4992fdea33b990ed678f811cf3a" Chinese="64|128|256|512|1024|2048|4096|">64|128|256|512|1024|2048|4096|</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="07ec05bf499706a25cf7ba7605220ce7199d45bc" Chinese="简易模式">modo Fácil</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="bc1e88484ae3a781daa8a84c00419c208a6506f8" Chinese="专家模式">Modo Experto</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="d16accd5fb5c68e6e9c2415c97e9f267c9464705" Chinese="启用密码登录后,您需要在软件启动的时候输入正确的密码才能使用软件">Permite la contraseña de acceso, que necesita para empezar cuando el software para introducir la contraseña correcta para utilizar el software</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="52382577fb8c78ba34e47c9fa70fdcd123d68b83" Chinese="--">--</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="42b64dcd6d8c6749fe1b6ab59f2aa262200e42cd" Chinese="确认密码">Confirmar Contraseña</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="b777c8267904aef8589f116259a62a630f5c11f7" Chinese="--">--</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="密码">contraseña</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="a20321c4e939d5b2a763efb871863038233ebf18" Chinese="启用登录密码">Habilitar contraseña</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="ab7950cec61f4b3c4d7826e3202b843ea5c921b8" Chinese="数据帧长度">marco de datos</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="3e06abfcf8428ace0c6e2e85ce262f7df316edaa" Chinese="linkLabel1">linkLabel1</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="数据存储路径:">Ruta de almacenamiento de datos:</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="1e17b89b2c4f83fd34e4cfaa9093bc92c7cbe107" Chinese="toolStrip1">toolStrip1</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="bbfbd4b25c7b1b6eb645ab2c9b280c49b772792a" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="c37fc2743aa394ec7b59c7080b14e5ab2c71eee7" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="3323e835b36be6d767c6dedff04afb3356ab5b63" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="12fd5eb732a84cc4d1f9b7a17822a739b41fae0d" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="6597f25670053909d3e3fc804dfe1bd048945f46" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="36a265e06c5cc2053f5c95fa6471a0bde8b035d8" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="2ffeb0174d1f98d99048f2b67ace40ba990212a5" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="09a4e91f3fbfcc2f959544042d7358573d2ad788" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="6e903169a86e77d8bdf93b3db801cbef142afde7" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="a6bc5960460e3b15f03d009b74160c943ccdc5f2" Chinese="--">--</Record>
+  <Record Formid="5347bd1acdd975daa7a6a77ade610b0cf09b28fe" Controlid="7808ad83737adde3c340708725f5353ee4bfcbc9" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="1e17b89b2c4f83fd34e4cfaa9093bc92c7cbe107" Chinese="toolStrip1">toolStrip1</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="bbfbd4b25c7b1b6eb645ab2c9b280c49b772792a" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="c37fc2743aa394ec7b59c7080b14e5ab2c71eee7" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="3323e835b36be6d767c6dedff04afb3356ab5b63" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="12fd5eb732a84cc4d1f9b7a17822a739b41fae0d" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="6597f25670053909d3e3fc804dfe1bd048945f46" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="36a265e06c5cc2053f5c95fa6471a0bde8b035d8" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="2ffeb0174d1f98d99048f2b67ace40ba990212a5" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="09a4e91f3fbfcc2f959544042d7358573d2ad788" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="6e903169a86e77d8bdf93b3db801cbef142afde7" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="a6bc5960460e3b15f03d009b74160c943ccdc5f2" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="7808ad83737adde3c340708725f5353ee4bfcbc9" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="label2">label2</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="ccafe147c53ee049743ba9e832366c8e5d4c4958" Chinese="载入">cargar</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="56f8d46f6e5eafc03c305400e2af20257582c5fd" Chinese="开始">iniciar</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="f07160bd8d1dd5623a0c23578f1a0f38566b3c76" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="整个寻机过程将持续一分钟的时间，如果下列表中已经出现要找的设备，请单击“停止”结束寻机。">Todo el proceso será buscar una oportunidad por un minuto, si no han estado buscando por la lista de dispositivos, haga clic en "Stop" look final de una oportunidad.</Record>
+  <Record Formid="0b4e6d9c79dbb77a97b4523546000710585aa3c7" Controlid="b84c1035b993ac027129c6cdad02c88b514daf76" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="2b563dd176167a9afdd5ecf86c59895d30e4b198" Chinese="文件">expediente</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="8b7386dd7f5992a795353cef50323acc76862dcf" Chinese="导入Excel">importadorExcel</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="623650d7019074123a97c48e5726c960695d6cf3" Chinese="导出Xml">exportarXml</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="94fa404f5e8dff1e90c02acf88ba6a4aacaf838b" Chinese="保存">guardar</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="64dd875a2c7ebc4143f7071c0f072721ee3721c4" Chinese="退出">dejar de</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="3031e2876cae290dea6547bbef70661bd148bbdd" Chinese="编辑">editar</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="f75ca10a69758ad40d88bb2cbea7dffe3ec6ba84" Chinese="复制">copie</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="36bca78e6ebbf32ae4c3a30d7a14da49070b6edb" Chinese="剪切">cortar</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="67fa2a4ba38bdb3e5827c28610002c1993e9cf12" Chinese="粘贴">pegar</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="405f02e2983ac210412c797f87f5edb7a7d7c05e" Chinese="清除">eliminar</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="5bbf0d86de6b932d5ecb106bda6c51d7b16b98eb" Chinese="清除内容">Claro contenido</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="66ecc2dc0ca21c3c25daf477edd75b50bfe7567f" Chinese="清除格式">Borrar formato</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="f47729a65bebd7984258d995d416ef54e9974cd5" Chinese="清除全部">Borrar todo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="9e647dc7fe6fba920422d8ee2830680e94795154" Chinese="合并单元格">Combinar celdas</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="3f9f30d24a75cb9e1fd6b7c90b9e94bcd64d781a" Chinese="取消合并单元格">Cancelar Combinar celdas</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="fb5015a3149cbe45c71f33c717a18f372538d4e2" Chinese="插入行">Insertar fila</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="56f6570792157c9e3bc5d7c987908d0d82adcd31" Chinese="插入列">Insertar columna</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="1236403c619891cd94e691b3df240254a65a5b15" Chinese="删除行">Eliminar filas</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="06458d3af02b2f676854d5c0f7951cfb82d0999f" Chinese="删除列">Eliminar columna</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="51ad7197a87eccc900be368334ee42cd6ed6d8bb" Chinese="属性">propiedad</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="56135b851b46f242647de3a163af487676c25f57" Chinese="字体">Tipo de letra</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b60d9113c8cbb245e3ebcdbb99de23d9100e6da7" Chinese="边框">marco</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="9c25e337466be9ad5112341aee144bc469470b76" Chinese="无边框">Sin borde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="c09c53bcd3d940b247f3327fcee6072651809064" Chinese="左边框">borde izquierdo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="ecbe16908dd9e04cbd80b0fec83cced285a03969" Chinese="右边框">borde derecho</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="91018b0b94ecfba0e1ce5b96ecfc495181433699" Chinese="上边框">En la frontera</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="bdce63e5b6c2a50649b10f82a29d274172811f7e" Chinese="下边框">borde inferior</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="8bd14d3028419a26fe86a06cd45480a7f8cfbe1f" Chinese="正斜线">barra inclinada</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="6b40421a5b21729d2d994cd1b62a82cbf43c7de9" Chinese="反斜线">barra invertida</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="39c2ad048bd5eff4cf14d92b95b588ee7aed6123" Chinese="内部边框">Las fronteras interiores</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="dbf39f62fbdbea054dc5a7fa6ada641832f57d85" Chinese="外部边框(细)">Fronteras Exteriores (bien)</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="dc46af888c0db70e2084031b7547a21e705ef42c" Chinese="外部边框(粗)">Fronteras Exteriores (grueso)</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="0a00bac6fdf23430c5cab7555716aeea1c8bb4ba" Chinese="全部边框">Todas las Fronteras</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="aaa02e921d71f61609c8c4dcae68838cdf17acf1" Chinese="对齐方式">alineación</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="2cf2db589aa968be73769b55da6d82d116f94e35" Chinese="常规">convencional</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="591007770ef7389783c17eb4e03645937d5b781f" Chinese="顶部对齐">Alinee la parte superior</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d23f95a85f891264303af8fdde25a25617025725" Chinese="中间对齐">Alinear horizontalmente</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="038d0a0ad5cbb51de3284a24b8c8bc17a0014122" Chinese="底部对齐">Alinear abajo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b53e79b579a1a75130767c48c366d018c8bb6a6c" Chinese="左对齐">Izquierda</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="19bbd3a2fa690073e06e58e25f069218d89c4eff" Chinese="顶部左对齐">Arriba a la izquierda</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b53efda31eb5f687070c656d23382f8aae3325ca" Chinese="中间左对齐">Medio alineado a la izquierda</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b094b6866f0a3ddbb2c85d5daa136d92a41fef43" Chinese="底部左对齐">Abajo a la izquierda</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="88fa7ceb213455381ad36f526a53812054ce1723" Chinese="中对齐">alinear</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="48b5f2e251388cc9832998c0c5c8ae39ce80891a" Chinese="顶部中对齐">Alinee la parte superior</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="5c902ea4442f7129c451225f7be01f2b61786874" Chinese="中心对齐">alineado al centro</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="536152c3a1ce76b442af5137b11a5efb5c8cb797" Chinese="底部中对齐">Alinee la parte inferior</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="53c0e874fe5e0f9ba3c7dd3396151b465817a467" Chinese="右对齐">Alinear a la derecha</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="dbc9d735c7eceb1a9c4c62c2717de0ea7f811ad5" Chinese="顶部右对齐">Arriba a la derecha</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d3a0a183b5192e591ef23b4971c94d5ca68a40c9" Chinese="中间右对齐">Medio alineado a la derecha</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="a8576a5be1a5272e128c01d6b66b70a01f75df9d" Chinese="底部右对齐">Abajo a la derecha</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="c6774e07e5054fd9818c006284393f35f719d3b1" Chinese="文字颜色">color del texto</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="310134999b153169aa9d34ba71f8a0bbddb592e0" Chinese="红">rojo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="3bbf33e013e7043b743ae0c1980bc91a75272c28" Chinese="绿">verde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="e46eb724e32b63ffb384525186bca1fdd3765274" Chinese="黄">amarillo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="9266e21afb1f601fa07ddb3a26b58c3ad54efbd3" Chinese="背景颜色">color de fondo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="ed50ece6ac5bc524f362433a6e9e7d6feb39b20d" Chinese="红">rojo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="9c72075627be95d3a39e612c8c9d034dc4197fc0" Chinese="绿">verde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="289a0bafc848f537c439c8c95a308c7a95f4e9e8" Chinese="黄">amarillo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="dfb713934fd79545ed8db852dad1ff3ad6702c02" Chinese="黑">negro</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="ea204d1961f9d3a37b78897476fc405d5748b0c0" Chinese="表格颜色">formas de color</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="3845584afec00d839fd0933a1b991b381480fd38" Chinese="红">rojo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="8697bf4a1dab506b184b9890c03cab0ecc9370b7" Chinese="绿">verde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="63f1e07a6f80df363c5ab2e8315bfb3b7afada8a" Chinese="黄">amarillo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="eae942bc3f9e94e58066c9f86be19fc8af4145b2" Chinese="黑">negro</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="0c5185f7c6d6956f2fdeb7972f5eb70482d7f199" Chinese="边框颜色">color del borde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="1149e55cbc7b470d0ef223d019a3890254057ce5" Chinese="红">rojo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="24acb5151447a934ac5794f40e2fe724b5eb876f" Chinese="绿">verde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="18beb7fac0d04a951fac2fd9abad669e8fb6739d" Chinese="黄">amarillo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="85422e6294c0e52989f52bcedbef7ac7f698cffe" Chinese="黑">negro</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="8aad3f969c26c7a7a6a6474e17f95cb42044718b" Chinese="设置自动换行">Establecer Wrap</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="bbd409ae55ca372b34c977c9170aa63cfa322bab" Chinese="取消自动换行">Cancelar Wrap</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="0eae24723c5e45318ff753894a161cdba4237896" Chinese="设置单元格只读">Conjunto de células leer</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="2c01f8dc8b3ce8ac0e6d8c8fa037d2767de56009" Chinese="取消单元格只读">Cancelar celular leído</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="ed1004b92ed03e9322344b226c5b12f18e5e52cc" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="7a0f8f4b30b5da66319b479785ac76d6b205f0b2" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="a6eadb24cc8fd75c275864ea1c3584613e719134" Chinese="表格编辑">Tabla edición</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="a90e1511f93a1cb31b7790a1cdd6a06ab000cfcc" Chinese="编辑">editar</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b6b4ceac6b62a6b75296fad0ca800787e4ac2ffe" Chinese="剪切">cortar</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="32aa7c6ceff18f24632f54ad1d8d7154006d15f5" Chinese="复制">copie</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="ce390b6c8ac5b50b34a3237b1a1c4070f476c6ad" Chinese="粘贴">pegar</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="6e4f390209b8a164e5e8dd5edfa361c5f2d55eef" Chinese="合并单元格">Combinar celdas</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="aeb65fd064e2a563d005444d5b6cad8ff57278b9" Chinese="取消合并单元格">Cancelar Combinar celdas</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d5829ffdc8b0f3304f10f2f61a72f0a163e56c69" Chinese="清除">eliminar</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="75887adee669d8da5de75661b5fb77cba9a55410" Chinese="清除内容">Claro contenido</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b54f5bc1a99e394f779621323fd0edaa63bb96bc" Chinese="清除格式">Borrar formato</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="c2331ca9462093baa07479eb106d9557e17954fb" Chinese="清除全部">Borrar todo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d5e89d1713cb01b83d51e2954a12ac46a2161ec6" Chinese="插入行">Insertar fila</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="465eedad2d010e77605c32a851d8d11d5bd586fa" Chinese="插入列">Insertar columna</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="4a7a99518dcfb6cfbd6583b4d727d6e0cb9fc697" Chinese="删除行">Eliminar filas</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="78ed711b6485e1ce2881b304ae777909c484ffb0" Chinese="删除列">Eliminar columna</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="4e3247348151b7cc29639e82e01409ae9c97323e" Chinese="字体">Tipo de letra</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="48e07beb3654a79e6e4e2a08d8fc6cf09b884e99" Chinese="边框">marco</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="15412a9e3532fb955c77692aa62b8c7041f77285" Chinese="无边框">Sin borde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d67cad78351c3bc5617c8fa35c731e9258e0250c" Chinese="左边框">borde izquierdo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="8dddfc5a3f6eb4e9a0b1022461b932c14cb30773" Chinese="右边框">borde derecho</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="cb023156a86a89222e802acce51984120b1fac4a" Chinese="上边框">En la frontera</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d517838756060c39593b09be3780948d2aa0fe35" Chinese="下边框">borde inferior</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="41a034051b30c5c38d2cde997a3eab71fb3c2d47" Chinese="正斜线">barra inclinada</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="6f5fc8dbd1fb945c68455e76b478d8027e1a25b7" Chinese="反斜线">barra invertida</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="e6bc166abf7aa704019cc47fb0e72be82f7fb2b8" Chinese="内部框线">Las fronteras interiores</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d486a3dd344165091f1992d3aaa22ab33942ebbd" Chinese="外部框线（细）">Fronteras Exteriores (bien)</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="50cb2d013a2e3c4f0cb8712d12a1e1525ecfaf3f" Chinese="外部框线（粗）">Fronteras Exteriores (grueso)</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="81109a99d7a4bd84e6258522ab3c88c167229732" Chinese="全部框线">Todas las Fronteras</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="257424fcf9adf5b906d2267ef6a189821b1f4d26" Chinese="对齐方式">alineación</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b07c80aa7f5f2793527e0171c0e4d1f19ebd88e0" Chinese="常规">convencional</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="5eabf5195e76ba2fde44e51af33594b5f1dad82c" Chinese="顶部对齐">Alinee la parte superior</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="ac7225feaada6c9c8e2a39d08b9ae8b7467815c6" Chinese="中间对齐">Alinear horizontalmente</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="3a5c53e226a6d761d802c1e0faac02907fff5fca" Chinese="底部对齐">Alinear abajo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="969976839a1bd141f1fda0aa6abcc3a975b566c5" Chinese="左对齐">Izquierda</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="395ff97ce668715c5b31636f9f61e8fbbba2ac50" Chinese="顶部左对齐">Arriba a la izquierda</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="1c0f8a4f3964ded244737f1e1ca20c5bdfad619d" Chinese="中间左对齐">Medio alineado a la izquierda</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="630f63973176de1df47a8930b992037a0e95271c" Chinese="底部左对齐">Abajo a la izquierda</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="3286d00b9ee4f4f809e585c753045b4eb0921abe" Chinese="中对齐">alinear</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b017a375152007ba34e4e21c04f4bd2ecd051ff2" Chinese="顶部中对齐">Alinee la parte superior</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="cd46dd24674d100a6973aacb3a1f1396fc35e4fb" Chinese="中心对齐">alineado al centro</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="cc8e46da39540e28d87077cb4bbf4af79a278037" Chinese="底部中对齐">Alinee la parte inferior</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="c81840828fdd0a8e86693a157d546397c3804924" Chinese="右对齐">Alinear a la derecha</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d717f5bd084b0cf36f0d0a731b0cb9d97d888031" Chinese="顶部右对齐">Arriba a la derecha</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="55dad3aef3c8a7fbcaac4b67efcb601547627738" Chinese="中间右对齐">Medio alineado a la derecha</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="4410724557b3e26264da55753aa09c75b78e187b" Chinese="底部右对齐">Abajo a la derecha</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="66a14ece2dc2deb633e4654f8810b00efe82d8f8" Chinese="文字颜色">color del texto</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="b0fb028db5d2d132259c96c422e7ba8e858851f6" Chinese="红">rojo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="e1d55ba1e11c0eb93137024633ffca476d69ea0f" Chinese="绿">verde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="1e0111d633760f6306f97cad86966f4405959c19" Chinese="黄">amarillo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="30f540901211b7b6bbcbd0c8703927f2cf62ed0c" Chinese="背景颜色">color de fondo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="e2f6697f080a275822bba166e65e8c2a84afa844" Chinese="红">rojo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="8f56f4fc6afcbcfc0a0025f3f7f9b744f65a392d" Chinese="绿">verde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="59ed93f9cbf43c33e83c885128ed050cf99de917" Chinese="黄">amarillo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="d52c436f0bebc5764bd615a660e5b7dcf063276a" Chinese="黑">negro</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="1f2fecdf85373de96d8fc3c9d01f7ecf807c46d5" Chinese="表格颜色">formas de color</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="cc569706128103c2444aa4a18650835a07813aa3" Chinese="红">rojo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="14354cdd631a823de6f4eb9e7298cefcbd2207cd" Chinese="绿">verde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="0ce2950076cfac9bd673f7e16d9a8ea52f1e54e8" Chinese="黄">amarillo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="2aa077b46c65b95ee7992b30bc30f1fddd1190e9" Chinese="黑">negro</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="66cd8fc9470b1e5caf7730d744b32d6785af6f30" Chinese="边框颜色">color del borde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="4495457f66f3e01b0ab28736c78738af5fd49fdf" Chinese="红">rojo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="75d306b8cc1b0926514bbedf7d36c572494313c6" Chinese="绿">verde</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="39e1a513d5a59982abee2d1ba26e6b521ce8ddef" Chinese="黄">amarillo</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="f1eee21c63405fa51b0543aadfa40346a625f2c5" Chinese="黑">negro</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="c06818817f1940a2309111723824c69c0feb1642" Chinese="设置自动换行">Establecer Wrap</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="4bf10d8fda35ce78888c9813d71393d6b79f3036" Chinese="取消自动换行">Conjunto de células leer</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="3d53ac84440a46c66b81cf518868e38d13cbb339" Chinese="设置单元格只读">Conjunto de células leer</Record>
+  <Record Formid="19f4fa759b434c8b1d488bd3472feb9de617c2ce" Controlid="11aeb1b9ea8c218af3f52520177bc0df6e15c57f" Chinese="取消单元格只读">Cancelar celular leído</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="a25016a845eaa5b3108caae796a4d4ef09cebd6c" Chinese="手动调节">El ajuste manual</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="693d2116b6b34fc3eea81446e91b339f89769038" Chinese="15级">15nivel</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="b3155409c6809c34d3bd485aa00fe63e17ab8030" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="75d8faed1f59ca4dea8abe6d4f255daea812b207" Chinese="自动调节">ajuste automático</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="4e9674c3f5d6100e475a4e410d813d624d4e7392" Chinese="15级">15nivel</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="06299a4269ed35265821298732a546889cf7221e" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="a74e897eba61dd5eb30b2b0e4fe5aab4d1b7e887" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="a20321c4e939d5b2a763efb871863038233ebf18" Chinese="时间1">tiempo1</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="7a16f44ccc7b6e609b8697b09ad3a2d4dda7a388" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="38fac4f72742dddc8d52516555eeec0431ea8b72" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="7080dd25ac16cc7acdf6b4015d7d7b8616b4c36c" Chinese="时间8">tiempo8</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="15级">15nivel</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="e05c8a8551e8e2fc4769fce5975f4dd4058ac375" Chinese="15级">15nivel</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="b7b80b9e132371eb2abc347a9821bf42691a50e6" Chinese="时间2">tiempo2</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="3bc65b7fee7dc751ab46b1b777a18f25669a3262" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="15eb68708bf03836cdd642f908bebeba7ea5d0bf" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="1f4568c8d1f7c5ae940614b70f821f35a3f5dd42" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="7ea735bfe8e0ec9e11be9da6c227fe13b30680be" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="4d2e3ed6b196246a1a599849a65c14bd6248f298" Chinese="时间7">tiempo7</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="15级">15nivel</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="dcf6173704f27a942ba74569db88cea0ede99342" Chinese="15级">15nivel</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="54b253f378cce8786ed776eb3c75ff8a50da683c" Chinese="时间3">tiempo3</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="541928a8dee9dd0094e222d2b1be0e864e8670d6" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="5af75273df8891f2ee4668dedb43df74c985e3eb" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="ec96ccb2f6f3c1e8a0b595f0d53e1ceee034262d" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="04dcd3349033635e25722801521dabbdf59e4276" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="20fb996fd9f0e3dda0b6884445d6f57b207950fe" Chinese="时间6">tiempo6</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="42b64dcd6d8c6749fe1b6ab59f2aa262200e42cd" Chinese="15级">15nivel</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="e017a096e15af0fe19ea518187e66d3196162da3" Chinese="15级">15nivel</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="d71feb4d028a64d5fb4d4d3c9a31b2c9806823ed" Chinese="时间4">tiempo4</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="279210ac5ab6be38a7d0659d6a4dbf95aeef3618" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="92ed78533dbfebe5ddfd8093dd17585ec7f40269" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="1976c6071f900d528c04783b1b7d9cfebe98ddea" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="16b502f0d91d619ff6470da7204c026ba1902db9" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="99063652f27b9c33adda9d643a69b7a8bd5fca09" Chinese="时间5">tiempo5</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="d16accd5fb5c68e6e9c2415c97e9f267c9464705" Chinese="15级">15nivel</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="7d450409e2f7a5dd8d827ebd09c04e3ff8f41c80" Chinese="传感器调节">ajuste de sensor</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="f2f2ecc491e033803e684c100f328966c5fdee81" Chinese="自动调节">ajuste automático</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="1ef2e90f22f548d43c7c607bddba2c59b79981e3" Chinese="手动调节">El ajuste manual</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="363f77d3b0c4a2d0577a2211ffb61c1caff7ce7e" Chinese="如果使用U盘模式,请在设置完毕后点击确定!">Si utiliza el modo de disco de U, por favor haga después de hacer clic en OK!</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="bf3ec7aa5bd5723d6809ead90072417ea6733ed0" Chinese="发送">enviar</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="38ebf32aa8f6aa5e38d220c8e468f6aaca4047d9" Chinese="确定">determinar</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="7a0f8f4b30b5da66319b479785ac76d6b205f0b2" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="a6eadb24cc8fd75c275864ea1c3584613e719134" Chinese="亮度设置">ajustes de brillo</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="4b15e1e77653a2e6656130f1065dc85987b90bfc" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="1d98ebc200c7e152c4947be11d187595548ec395" Chinese="确定">determinar</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="19a0f22132a1733d3c6265473da45df86382c273" Chinese="删除">borrar</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="1dd644fda5a4ad8166fd7612b91d500f8a7478ae" Chinese="添加">añadir</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="ab7950cec61f4b3c4d7826e3202b843ea5c921b8" Chinese="编辑分组">Editar Agrupación</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="045d7aa76f3c44bd66a2e12dd7e41f2b23a5fb76" Chinese="--">--</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="分组描述:">Agrupación Descripción:</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="5a8ca1d945c4d73ec981e80232398191f31fed2b" Chinese="--">--</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="分组名称:">Nombre del grupo:</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="7731710d3059029b7d7d7cc33485b419a0d598b8" Chinese="分组列表">lista de grupos</Record>
+  <Record Formid="647527465ddccd086d10d2f692f3af6cd3a5b18a" Controlid="af910e56fcad8395fcffcbf2938db8872228dd72" Chinese="--">--</Record>
+  <Record Formid="03ead0a378680db687dad397d5657a6b16f205da" Controlid="93fb81a3927400f504d22005cae41450669a17df" Chinese="1|2|3|">1|2|3|</Record>
+  <Record Formid="03ead0a378680db687dad397d5657a6b16f205da" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="行距">行距</Record>
+  <Record Formid="03ead0a378680db687dad397d5657a6b16f205da" Controlid="03f6ec696fc288fe328ab5679d7c68c08d77b108" Chinese="1.00">1.00</Record>
+  <Record Formid="03ead0a378680db687dad397d5657a6b16f205da" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="03ead0a378680db687dad397d5657a6b16f205da" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="1.00">1.00</Record>
+  <Record Formid="03ead0a378680db687dad397d5657a6b16f205da" Controlid="4e4c99339d9f382b232fe7df4e04901393aacfdc" Chinese="--">--</Record>
+  <Record Formid="03ead0a378680db687dad397d5657a6b16f205da" Controlid="1e17b89b2c4f83fd34e4cfaa9093bc92c7cbe107" Chinese="左对齐">Izquierda</Record>
+  <Record Formid="03ead0a378680db687dad397d5657a6b16f205da" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="--">--</Record>
+  <Record Formid="03ead0a378680db687dad397d5657a6b16f205da" Controlid="da39a3ee5e6b4b0d3255bfef95601890afd80709" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="ab7950cec61f4b3c4d7826e3202b843ea5c921b8" Chinese="自动开机设置">Ajustes de apagado automático</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="6c02621966337c85df31a7da80fdf8a25782d4b9" Chinese="星期天">domingo</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="54ef4f47a022de9e09f0f4f9cc26b9056067f7d7" Chinese="星期一">lunes</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="92ed78533dbfebe5ddfd8093dd17585ec7f40269" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="0dbf030fb8a563910a49011bae7b7ef71dc6f931" Chinese="星期二">martes</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="d0c07ff22cca7cc355c0937f0abc5bb88fa80cbc" Chinese="星期六">sábado</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="aeb15940c19a7cef9d774cf0f19afee6e12665b6" Chinese="开机时间1">Arranque tiempo1</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="d16accd5fb5c68e6e9c2415c97e9f267c9464705" Chinese="开机时间4">Arranque tiempo4</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="38fac4f72742dddc8d52516555eeec0431ea8b72" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="5af75273df8891f2ee4668dedb43df74c985e3eb" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="b6381e7b16f74e6b1a6128ebea0e2650c62508f9" Chinese="星期三">miércoles</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="ec19192708aa72b3457e9bd9d695479eb89c7105" Chinese="星期五">viernes</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="c0a0a3bb3a33b6e8e7d0ed3c7fbbcd18366ad5aa" Chinese="开机时间2">Arranque tiempo2</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="42b64dcd6d8c6749fe1b6ab59f2aa262200e42cd" Chinese="开机时间3">Arranque tiempo3</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="15eb68708bf03836cdd642f908bebeba7ea5d0bf" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="616e3c9312d200350fc57154779d5725601fb23a" Chinese="星期四">jueves</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="d0fc61c1d05ab6dc335bf9fcf1bc89eb51cd83bb" Chinese="自动关机设置">Ajustes automáticos de apagado</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="e41b95516f53cb3e360f15ac367b6c0502abf651" Chinese="星期天">domingo</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="d231c674087886ec22a9d460dbd9723e8f4c2458" Chinese="星期一">lunes</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="baef80857a847410d9001a94aa666b93c9c223ec" Chinese="星期六">sábado</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="4e9674c3f5d6100e475a4e410d813d624d4e7392" Chinese="关机时间1">Apagar1</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="2d0f2c717a0ecc5a12f4557bf008fde9dc7478c7" Chinese="星期五">viernes</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="7a16f44ccc7b6e609b8697b09ad3a2d4dda7a388" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="c3e1f0ba1e59d2f435f114ae06fcf4917d4c4499" Chinese="星期四">jueves</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="e05c8a8551e8e2fc4769fce5975f4dd4058ac375" Chinese="关机时间2">Apagar2</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="462506bf3389f1435b6bb9d226b187d72859a4c0" Chinese="星期三">miércoles</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="1f4568c8d1f7c5ae940614b70f821f35a3f5dd42" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="8d33361641c09072a49df349ec78b4be3d467b38" Chinese="星期二">martes</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="dcf6173704f27a942ba74569db88cea0ede99342" Chinese="关机时间3">Apagar3</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="ec96ccb2f6f3c1e8a0b595f0d53e1ceee034262d" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="1976c6071f900d528c04783b1b7d9cfebe98ddea" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="e017a096e15af0fe19ea518187e66d3196162da3" Chinese="关机时间4">Apagar4</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="38ebf32aa8f6aa5e38d220c8e468f6aaca4047d9" Chinese="发送">enviar</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="bf3ec7aa5bd5723d6809ead90072417ea6733ed0" Chinese="确定">determinar</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="e9e5091d956cc1ac9e37f581a68888eba6fc182b" Chinese="启用定时开关机">Active el interruptor de tiempo</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="7a0f8f4b30b5da66319b479785ac76d6b205f0b2" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="a6eadb24cc8fd75c275864ea1c3584613e719134" Chinese="自动开关机设置">configuración Switcher</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="67f3e88e1b10068c2bef45cdf460a7866a0fd901" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="dbde58972ae34ec225a1de3c5d8bf81c1bab64e8" Chinese="--">--</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="2ec889abdc8895c496cec5d6bb86f43ae47f75e8" Chinese="--">--</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="549f140bda4c881d2f93f44bab61aae130a65aad" Chinese="+50%|+40%|+30%|+20%|+10%|+00%|-10%|-20%|-30%|-40%|-50%|">+50%|+40%|+30%|+20%|+10%|+00%|-10%|-20%|-30%|-40%|-50%|</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="871fb832720d0c827fabe260c2b53d05e9349574" Chinese="123|456|789|">123|456|789|</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="602859177a82a84c43ad6703309fae0462bb9b06" Chinese="S">S</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="8ae54d0dada8daa202e25ad121e528765214881a" Chinese="U">U</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="7da3ace65cc1597a0037209ed650bbe777225fac" Chinese="I">I</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="bbc1f0c890741ff491fe8000b1b9bb339b7e3aed" Chinese="B">B</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="fae699b56b84690688a3d1436bfcbaba01bda7f3" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="9368104c09ac361897795a6312a403e232a14e00" Controlid="71e04a4714379875c21a6241c297348139cc1a92" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="f9b481c839e06ab56b16e8e600e56b2cc817a6a1" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="44623c44616731d8a1628ecb9145a7e91e3c7a99" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="7a0f8f4b30b5da66319b479785ac76d6b205f0b2" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="743172bbb0e1e6fd0d75ad07da19a0ffc0c915a6" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="9a54dcffa89d12ece03307142e0f0344ced85a7c" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="b4addd81aae5742428d3bc22b0ae7832953eb947" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="5b7b13ac521479bd96b9b9a17b13cf505610887f" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="a6eadb24cc8fd75c275864ea1c3584613e719134" Chinese="写入U盘数据">U disco de datos está escrito</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="9b9bc7081f739b0133e108702e2b7418df25fd32" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="5d4a3703cdaee21c837a84ae0145f0f090fa15e8" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="33b5215a09784e8fe5454c8d844f8be7e4dab391" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="d222667d13949a100894e5915719890522a3c570" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="5f703ec33ea63b2ac76812a55189f29107ca40b6" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="8133363d9b1ef577e5f24b192160fbf0f483dd3d" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="a594f6924546e06ca84f2875701960be27297296" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="f217ffff2908f36c782a50e5827e9267cf84f6a8" Chinese="℃|度|°|">℃|grado|°|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7fd31ce809ac0f3bd8f08a394b8041bdabd34921" Chinese="温度单位">Unidades de temperatura</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="65c022a2a3d705456162325c8724a8d10b988aed" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8fd39cb9ae352be70959342af2a4c8d2a374aad0" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="fc26cb838b1069842f300ca81c0a699a46d4ce53" Chinese="单行显示|多行显示|">Visualización de una única línea | display multi-línea|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="ed08618cc9e91060df6d00a7877781ef773dd38b" Chinese="--">--</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="966a73c08c54545e49370fee5cfba99f620cf4e9" Chinese="提示内容">contenido Tip</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="8c764fcdcf8ef03819fc527fed99d8f2d6be0625" Chinese="--|--|--|--|--|--|--|--|">--|--|--|--|--|--|--|--|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="e9ccf728cc2a8b27080600a9012e4cd9439ca47e" Chinese="U">U</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="33993287fe0ac04c4735467a37c61c4543f383f2" Chinese="I">I</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2bc6e9194c45dd04c7517f2aa4c98e6ba34e47c3" Chinese="B">B</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="91e0e39a5a265794a662e5e7de3accf532a3961b" Chinese="8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|">8|9|10|11|12|14|16|18|20|22|24|26|28|30|32|34|36|38|40|42|45|46|48|50|52|54|56|58|60|62|64|66|68|70|72|80|90|100|110|120|130|140|150|160|170|180|190|200|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="44ea33c145006e225814a85d29aa1e248ae01b9f" Chinese="内容设置">Configuración de contenido</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="546f4761d6ac3378f4007e4099102d8a0405d297" Chinese="--|--|--|--|--|--|--|--|">--|--|--|--|--|--|--|--|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="7e41318f1f410f4863179d9b7f50ddac76f3d487" Chinese="--|--|--|--|--|--|--|--|">--|--|--|--|--|--|--|--|</Record>
+  <Record Formid="cff9d87e1f4ff6f43ecb8bedd201b230e9ac4755" Controlid="2629af9a7e213fe1adbe6685054d5abc1a89bde8" Chinese="U盘程序升级">U disco de actualización del programa</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="c7c9e899337fb546b3f0b57b5e2348fe030a285b" Chinese="--">--</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="3bc4e48711c0b036def23a77fcb507ec4c730533" Chinese="温馨提示：当前软件为Led Control图文管理系统V3版，支持第六代ZH系列红色版本动态背景控制器，不再支持蓝色V2版硬件，给您带来不便，敬请谅解。">Consejos: el sistema de gestión actual del software gráfico para la versión V3 de control LED, la ayuda versión roja de la sexta generación de fondo dinámico controlador de la serie ZH, azul versión V2 ya no es el hardware soportado por el inconveniente, por favor entiendan.</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="58234db599a3ab2255f908d77ccef1721877c085" Chinese="常规P10|常规P16|常规户内|常规P20全彩(门头全彩)|">Convencional P10 | P16 convencional | cubierta General | General de P20 a todo color (puerta a todo color)|</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="2cd6a382cc4563d0029265abd9e44ea8e047c05c" Chinese="高级设置">Opciones avanzadas</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="fd0e7ecdc78911f47fe019a08be718fab0deb480" Chinese="OE极性">OE polaridad</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="63462b0d957fb921512132c60c2cf7c56879bf2e" Chinese="数据极性">polaridad de datos</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="845f042f4917e9d7aa4a9fb4085f7dcdbf27725f" Chinese="快捷配置">Configuración rápida</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="24dd4c2e99bf3e0536ccbfbc2edb90f928643238" Chinese="灰度级别">niveles de gris</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="82e9dd23d099909ce9487705dbe83562c2934137" Chinese="无灰度|4级灰度|8级灰度|16级灰度|32级灰度|64级灰度|128级灰度|256级灰度|">Sin gris | 4 niveles de escala de grises | 8 niveles de gris | 16 niveles de escala de grises | 32 niveles de escala de grises | 64 niveles de escala de grises | 128 niveles de gris | 256 niveles de escala de grises |</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="03e8afaeb97026c0d835d882cd42b1ccb139e9d7" Chinese="--">--</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="99799f598cf9b95e1e98ad99af2c5f93b1de4ac3" Chinese="1/16扫">1/16de barrido</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="e8c3fd0a9bc0524936439fe3b36b0a7386f8f633" Chinese="1/8扫">1/8de barrido</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="a4a3d5163d1e596367e5c892c240f5e97af7cb1e" Chinese="1/6扫">1/6de barrido</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="3b9711bab1f4cb52ae3ee4d2c0f779d349175a16" Chinese="1/4扫">1/4de barrido</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="f9004cc884118d57b3c8788151b1daad12bdd092" Chinese="1/2扫">1/2de barrido</Record>
+  <Record Formid="767354679c22c47d71166ceffaaa5496d4a32679" Controlid="6347b14d0c5b18c539bc7cce47a979a85d0e1fa6" Chinese="静态">El estado estático</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="546f4761d6ac3378f4007e4099102d8a0405d297" Chinese="--|--|--|--|--|--|--|--|">--|--|--|--|--|--|--|--|</Record>
+  <Record Formid="b578916564feeafd33ff9a2d5afa573233cbcc68" Controlid="7e41318f1f410f4863179d9b7f50ddac76f3d487" Chinese="--|--|--|--|--|--|--|--|">--|--|--|--|--|--|--|--|</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="8f2a67a5d15688474f57ee4e1e02235b147991ff" Chinese="U盘程序升级">U disco de actualización del programa</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="df724efb945b585cffc1cca7e22c77afefca7f0c" Chinese="升级程序">Actualiza Program</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="2694733b4167d0729ca3ee1cf2c47de7080699ed" Chinese="保存">guardar</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="a9db7cfa2bc9f1c5ddb15712f2be164f0e3729fa" Chinese="--">--</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="79b1675a4d137ccc7c60e8dd26a5b968ad7024b6" Chinese="选择U盘">Seleccione el disco de U</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="4c320ca1c23c948b6cf49d461e790cdc88d26a95" Chinese="浏览">Busque</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="dbe881ae821f256aff8c6d94a0a827cd489ee762" Chinese="--">--</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="d0fc61c1d05ab6dc335bf9fcf1bc89eb51cd83bb" Chinese="groupBox3">groupBox3</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="b0d03a187d6a329a16729b8c36435b8bafec7352" Chinese="Reg OCX">Reg OCX</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="363f77d3b0c4a2d0577a2211ffb61c1caff7ce7e" Chinese="校正">corrección</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="03f6ec696fc288fe328ab5679d7c68c08d77b108" Chinese="2.85">2.85</Record>
+  <Record Formid="bac81551e891b2843c3ad7ba58ceaa7292ce9c52" Controlid="e5a082635c64923cbfce36614e0b5678a657da9a" Chinese="启用分组(重启软件生效)">Habilitar agrupación (reboot software en vigor)</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="3a596a4403d778d4d7796df2f47e99ac8b79d2d8" Chinese="USB写入选项">Opciones de escritura USB</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="433484ee99f971092f6818eb8e01df5121ad77ca" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="49cacf3c032d3d16ecce029c9516f8b3d79de41f" Chinese="+1分钟">+1minuto</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="b73b8dc34601fe17780be40706844e2fecd7aa10" Chinese="请正确的选择U盘">Por favor, correcta elección del disco de U</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="48f78f195b50926e5790347670ab12891ad30873" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="638c2fccd49376561f94edae15c4f6e607f6fe8c" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="abaf777c76917371ea8d03c67523f01d99e39d59" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="6f984c632b0f5d9bfacb72c53c3adaf51ad8bac6" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="dab2304e897f02a647f5218383f1ce842970af5b" Chinese="自动开关机">Switcher</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="72d1faa12aa6a830a1290d32435fcef4c942fb8f" Chinese="亮度调节">ajuste del brillo</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="749e0c94496bb14e3bd80462f30db5e079f9f0d3" Chinese="扫描方式">exploración</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="7dbc1e53ef9f97fdffb00339777e01a0d7ffc406" Chinese="基本屏参">Parámetros de la pantalla Básicas</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="2694733b4167d0729ca3ee1cf2c47de7080699ed" Chinese="保存">guardar</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="79b1675a4d137ccc7c60e8dd26a5b968ad7024b6" Chinese="选择U盘">Seleccione el disco de U</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="dbe881ae821f256aff8c6d94a0a827cd489ee762" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="0c29c30f3bffc5425417f528b66b76b4c7b428ba" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="17146b541798fc93992e08c93bc91d93fbd6e509" Chinese="校准时间到:">Tiempo de calibración de:</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="8270ee7401887d33ca3c92b23f697ed771354145" Chinese="显示数据">Visualización de Datos</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="8f2a67a5d15688474f57ee4e1e02235b147991ff" Chinese="U盘程序升级">U disco de actualización del programa</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="df724efb945b585cffc1cca7e22c77afefca7f0c" Chinese="升级程序">Actualiza Program</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="a9db7cfa2bc9f1c5ddb15712f2be164f0e3729fa" Chinese="--">--</Record>
+  <Record Formid="1b71e9b75dbe9247bd41e2d4f21c4b3e127195a7" Controlid="4c320ca1c23c948b6cf49d461e790cdc88d26a95" Chinese="浏览">Busque</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="4b0f374159476473588ffb266d277ac0a9a1910f" Chinese="OE极性">OE极性</Record>
+  <Record Formid="2679a8fd66c97945b465a8158dae3891926ac3fa" Controlid="1aabc5204708b75be20525b796fcf62d1b996e93" Chinese="数据极性">数据极性</Record>
+</Root>

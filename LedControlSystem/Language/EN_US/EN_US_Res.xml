@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Record ID="Panel" Chinese="屏">Display screen</Record>
+  <Record ID="Item" Chinese="节目">Program</Record>
+  <Record ID="Subarea" Chinese="分区">Partition</Record>
+  <Record ID="PanelAbbr" Chinese="屏">screen</Record>
+  <Record ID="ItemAbbr" Chinese="节目">Program</Record>
+  <Record ID="SubareaAbbr" Chinese="分区">Partition</Record>
+  <Record ID="WrongIP" Chinese="您输入的不是一个有效IP地址!">You entered is not a valid IP address!</Record>
+  <Record ID="WrongMac" Chinese="您输入的不是一个有效的Mac地址">You entered is not a valid Mac address</Record>
+  <Record ID="Marquee" Chinese="">Graphic</Record>
+  <Record ID="Dial" Chinese="">Dial</Record>
+  <Record ID="Animation" Chinese="">Animation</Record>
+  <Record ID="Clock" Chinese="">Time</Record>
+  <Record ID="Counter" Chinese="">Counter</Record>
+  <Record ID="Lunar" Chinese="">Lunar calendar</Record>
+  <Record ID="Temperature" Chinese="">Temperature</Record>
+  <Record ID="Humidity" Chinese="">Humidity</Record>
+  <Record ID="Noise" Chinese="">Noise</Record>
+  <Record ID="Open" Chinese="">Open</Record>
+  <Record ID="Save" Chinese="">Save</Record>
+  <Record ID="Text" Chinese="">Subtitles</Record>
+  <Record ID="Score" Chinese="">The scoring</Record>
+  <Record ID="Animation" Chinese="">Animation</Record>
+  <Record ID="Preview" Chinese="">Preview</Record>
+  <Record ID="FindDevice" Chinese="">Search</Record>
+  <Record ID="Start" Chinese="开始">start</Record>
+  <Record ID="Stop" Chinese="停止">stop</Record>
+  <Record ID="USB" Chinese="">U disk</Record>
+  <Record ID="StartPreview" Chinese="">Open preview</Record>
+  <Record ID="StopPreview" Chinese="">Close Preview</Record>
+  <Record ID="Mar_Animation" Chinese="">Animation</Record>
+  <Record ID="Mar_Gif" Chinese="">Gif animation</Record>
+  <Record ID="Mar_Grid" Chinese="">Forms</Record>
+  <Record ID="Mar_Image" Chinese="">Picture</Record>
+  <Record ID="Mar_Richtext" Chinese="">Multiple lines of text</Record>
+  <Record ID="Mar_Text" Chinese="">Single line of text</Record>
+  <Record ID="Mar_Word" Chinese="">Word documents</Record>
+  <Record ID="ProjectFolderName" Chinese="Led工程数据">Led Engineering Data</Record>
+  <Record ID="Sure" Chinese="确定">Determine</Record>
+  <Record ID="Cancel" Chinese="取消">Cancel</Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="Width" Chinese="宽">Width</Record>
+  <Record ID="Height" Chinese="高">High</Record>
+  <Record ID="DefaultFont" Chinese="宋体">Times New Roman</Record>
+  <Record ID="DeleteWarning" Chinese="删除提示">Delete Tips</Record>
+  <Record ID="Delete" Chinese="删除">Delete</Record>
+  <Record ID="Areyousuretodelete" Chinese="您确定要删除">Are you sure you want to delete</Record>
+  <Record ID="Thiscannotrecovery" Chinese="本操作不可以撤销">This operation can not be revoked</Record>
+  <Record ID="Panel_NoGroup" Chinese="未分组">Ungrouped</Record>
+  <Record ID="PleaseSelect" Chinese="请选择">Please select</Record>
+  <Record ID="PleaseChooseTheSheetyouwantimport" Chinese="请选择您要导入的工作表">Ase select the worksheet you want to import</Record>
+  <Record ID="CanMergeReadonlyCells" Chinese="不能对只读单元格进行合并!">You can not read a cell merge!</Record>
+  <Record ID="LevelHead" Chinese="">
+  </Record>
+  <Record ID="LevelEnd" Chinese="">Level</Record>
+  <Record ID="CustomeSetting" Chinese="自定义配置">Custom Configuration</Record>
+  <Record ID="RoutingSettingOption" Chinese="">
+  </Record>
+  <Record ID="YearAbb" Chinese="年">Year</Record>
+  <Record ID="MonthAbb" Chinese="月">Month</Record>
+  <Record ID="DayAbb" Chinese="天">Day</Record>
+  <Record ID="HourAbb" Chinese="时">Time</Record>
+  <Record ID="MinuteAbb" Chinese="分">Minute</Record>
+  <Record ID="SecondAbb" Chinese="秒">Second</Record>
+  <Record ID="Year" Chinese="年">Year</Record>
+  <Record ID="Month" Chinese="月">Month</Record>
+  <Record ID="Day" Chinese="日">Day</Record>
+  <Record ID="Hour" Chinese="小时">Hour</Record>
+  <Record ID="Minute" Chinese="分钟">Minute</Record>
+  <Record ID="Second" Chinese="秒钟">Seconds</Record>
+  <Record ID="Prompt" Chinese="提示">Prompt</Record>
+  <Record ID="OperationFailed" Chinese="操作失败!">Operation failed!</Record>
+  <Record ID="ErrorInformation" Chinese="错误信息:">Error message:</Record>
+  <Record ID="PleaseSelectItem" Chinese="添加内容前请先选择节目">Add Content to select the program before</Record>
+  <Record ID="NoNodeSelected" Chinese="未选中任何节点">Any node is not selected</Record>
+  <Record ID="PleaseSelectPanel" Chinese="请选择显示屏">Please select display</Record>
+  <Record ID="PressControlFaster" Chinese="按住Ctrl键更快!">Hold down the Ctrl key faster!</Record>
+  <Record ID="NowIsGeneratingData" Chinese="正在生成数据。。。。。。">Data is being generated. . . . . .</Record>
+  <Record ID="NowIsSendingData" Chinese="正在发送数据。。。。。。">Data is being sent. . . . .</Record>
+  <Record ID="SubareaOverNum" Chinese="分区个数不能超过16个">Number of partitions can not be more than 16</Record>
+  <Record ID="ComTestFail" Chinese="串口测试失败!">Serial port test failed!</Record>
+  <Record ID="ComTestSuccess" Chinese="串口测试成功">Serial test is successful</Record>
+  <Record ID="Send" Chinese="发送">Send</Record>
+  <Record ID="Receive" Chinese="接收">Receive</Record>
+  <Record ID="ItemSubareaOverlap" Chinese="分区有重叠，请检查编辑">Partitions overlap, check edit</Record>
+  <Record ID="Overlapping" Chinese="重叠">Overlapping</Record>
+  <Record ID="HasNullIitem" Chinese="有空的节目,请删除空的节目继续">Free programs, please delete the empty program continues</Record>
+  <Record ID="RemoveProject" Chinese="当前工程数据将被删除,是否继续">Current project data will be deleted, continue</Record>
+  <Record ID="EdgeHeightOverSize" Chinese="所选跑边过度过大!">The selected edge over too large to run!</Record>
+  <Record ID="PleaseEnterNewProjectname" Chinese="请输入新的工程名称">Please enter a new project name</Record>
+  <Record ID="SubareItemEdgeOverlap" Chinese="">You can not add run side edges overlapping partitions and run!</Record>
+  <Record ID="SureDeeleteItem" Chinese="确定要删除当前选中的节目吗?">You can not add run side edges overlapping partitions and run!</Record>
+  <Record ID="SendData" Chinese="发送数据">Transmit data</Record>
+  <Record ID="Successed" Chinese="成功">Success</Record>
+  <Record ID="Failed" Chinese="失败">Failure</Record>
+  <Record ID="CommunicationFailed" Chinese="通讯失败">Communication failure</Record>
+  <Record ID="MakingAnimation" Chinese="正在生成动画....">Being generated animation ....</Record>
+  <Record ID="RemovableDisk" Chinese="">Removable Disk</Record>
+  <Record ID="DataWillbeWriteTo" Chinese="">Data can be written to mobile devices:</Record>
+  <Record ID="DataDownloadSuccessed" Chinese="">Data downloaded successfully, please exit from the computer and remove the U disk, U disk into the control card, complete the operation!</Record>
+  <Record ID="DataDownloadFailed" Chinese="">Data download error, please try again!</Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="" Chinese="">
+  </Record>
+  <Record ID="BackEffect_Arrow" Chinese="Arrow">Arrow</Record>
+  <Record ID="BackEffect_Camera" Chinese="Camera">Camera</Record>
+  <Record ID="BackEffect_Circular" Chinese="Circular">Circular</Record>
+  <Record ID="BackEffect_ClassicsFilm" Chinese="ClassicsFilm">ClassicsFilm</Record>
+  <Record ID="BackEffect_CrossLine" Chinese="CrossLine">CrossLine</Record>
+  <Record ID="BackEffect_DownEgg" Chinese="DownEgg">DownEgg</Record>
+  <Record ID="BackEffect_DownGongxi" Chinese="DownGongxi">DownGongxi</Record>
+  <Record ID="BackEffect_DownParticle" Chinese="DownParticle">DownParticle</Record>
+  <Record ID="BackEffect_DownStarts" Chinese="DownStarts">DownStarts</Record>
+  <Record ID="BackEffect_Festival" Chinese="Festival">Festival</Record>
+  <Record ID="BackEffect_Fireworks" Chinese="Fireworks">Fireworks</Record>
+  <Record ID="BackEffect_FlashStarts" Chinese="FlashStarts">FlashStarts</Record>
+  <Record ID="BackEffect_Folowers" Chinese="Folowers">Folowers</Record>
+  <Record ID="BackEffect_FullStarts" Chinese="FullStarts">FullStarts</Record>
+  <Record ID="BackEffect_Hearts" Chinese="Hearts">Hearts</Record>
+  <Record ID="BackEffect_Leaves" Chinese="Leaves">Leaves</Record>
+  <Record ID="BackEffect_Lighting" Chinese="Lighting">Lighting</Record>
+  <Record ID="BackEffect_MovingLines" Chinese="MovingLines">MovingLines</Record>
+  <Record ID="BackEffect_MovingStarts" Chinese="MovingStarts">MovingStarts</Record>
+  <Record ID="BackEffect_Particle" Chinese="Particle">Particle</Record>
+  <Record ID="BackEffect_Radar" Chinese="Radar">Radar</Record>
+  <Record ID="BackEffect_Rain" Chinese="Rain">Rain</Record>
+  <Record ID="BackEffect_Scanline" Chinese="Scanline">Scanline</Record>
+  <Record ID="BackEffect_Snow" Chinese="Snow">Snow</Record>
+  <Record ID="BackEffect_WaterDrop" Chinese="WaterDrop">WaterDrop</Record>
+  <Record ID="BackEffect_WheelStart" Chinese="WheelStart">WheelStart</Record>
+  <Record ID="BackEffect_Windwheel" Chinese="Windwheel">Windwheel</Record>
+  <Record ID="TextEffect_3D" Chinese="3D">3D</Record>
+  <Record ID="TextEffect_banzhuanxianxiandanchu" Chinese="banzhuanxianxiandanchu">Half turn show - Fade</Record>
+  <Record ID="TextEffect_BlowDown" Chinese="BlowDown">Blowing Down</Record>
+  <Record ID="TextEffect_Bomb" Chinese="Bomb">Bomb</Record>
+  <Record ID="TextEffect_Bottle" Chinese="Bottle">Bottle</Record>
+  <Record ID="TextEffect_Bulletin" Chinese="Bulletin">Announcement</Record>
+  <Record ID="TextEffect_chanli" Chinese="chanli">Shiver</Record>
+  <Record ID="TextEffect_chengbao" Chinese="chengbao">Castle</Record>
+  <Record ID="TextEffect_cixingzhuandong" Chinese="cixingzhuandong">Magnetic rotation</Record>
+  <Record ID="TextEffect_danrudanchu" Chinese="danrudanchu">Fade</Record>
+  <Record ID="TextEffect_diandao" Chinese="diandao">Invert</Record>
+  <Record ID="TextEffect_DNA" Chinese="DNA">DNA</Record>
+  <Record ID="TextEffect_Domino" Chinese="Domino">Domino</Record>
+  <Record ID="TextEffect_Drop" Chinese="Drop">Drop</Record>
+  <Record ID="TextEffect_Explode" Chinese="Explode">Explode</Record>
+  <Record ID="TextEffect_ExtinguishedLamp" Chinese="ExtinguishedLamp">Extinguished lamp</Record>
+  <Record ID="TextEffect_fanzhaunxianxian" Chinese="fanzhaunxianxian">Flip show</Record>
+  <Record ID="TextEffect_Fire" Chinese="Fire">Fire</Record>
+  <Record ID="TextEffect_Flash" Chinese="Flash">Flash</Record>
+  <Record ID="TextEffect_fudong" Chinese="fudong">Float</Record>
+  <Record ID="TextEffect_gundongdeshitou" Chinese="gundongdeshitou">Rolling stone</Record>
+  <Record ID="TextEffect_jiguang" Chinese="jiguang">Laser</Record>
+  <Record ID="TextEffect_jindouxuanzhuan" Chinese="jindouxuanzhuan">Somersault rotation</Record>
+  <Record ID="TextEffect_Loop" Chinese="Loop">Cycle</Record>
+  <Record ID="TextEffect_luoxia" Chinese="luoxia">Fall</Record>
+  <Record ID="TextEffect_NeonLight" Chinese="NeonLight">NeonLight</Record>
+  <Record ID="TextEffect_Nimbus" Chinese="Nimbus">Nimbus</Record>
+  <Record ID="TextEffect_OpticalScanner" Chinese="OpticalScanner">Optical scanning</Record>
+  <Record ID="TextEffect_OverlapEmergence" Chinese="OverlapEmergence">Stacked like emergent</Record>
+  <Record ID="TextEffect_paorupaochu" Chinese="paorupaochu">Ran ran into</Record>
+  <Record ID="TextEffect_qingwa" Chinese="qingwa">Frog</Record>
+  <Record ID="TextEffect_Radiation" Chinese="Radiation">Radiation</Record>
+  <Record ID="TextEffect_RadioWave" Chinese="RadioWave">Radio wave</Record>
+  <Record ID="TextEffect_Rainbow" Chinese="Rainbow">Rainbow</Record>
+  <Record ID="TextEffect_RandomJump" Chinese="RandomJump">Random Bounce</Record>
+  <Record ID="TextEffect_RandomScale" Chinese="RandomScale">RandomScale</Record>
+  <Record ID="TextEffect_Ray" Chinese="Ray">Ray</Record>
+  <Record ID="TextEffect_RollShadow" Chinese="RollShadow">Scroll shadow</Record>
+  <Record ID="TextEffect_ScanDown" Chinese="ScanDown">Scan down</Record>
+  <Record ID="TextEffect_shanguangdeng" Chinese="shanguangdeng">Flash</Record>
+  <Record ID="TextEffect_shanshuo" Chinese="shanshuo">Flicker</Record>
+  <Record ID="TextEffect_Sharpen" Chinese="Sharpen">Sharpen</Record>
+  <Record ID="TextEffect_shendeng" Chinese="shendeng">TDP</Record>
+  <Record ID="TextEffect_shengzhang" Chinese="shengzhang">Uphold</Record>
+  <Record ID="TextEffect_shenzhan" Chinese="shenzhan">Stretch</Record>
+  <Record ID="TextEffect_shili" Chinese="shili">Leave</Record>
+  <Record ID="TextEffect_SpreadOut" Chinese="SpreadOut">Separate</Record>
+  <Record ID="TextEffect_Spring" Chinese="Spring">Spring</Record>
+  <Record ID="TextEffect_suijizhendong" Chinese="suijizhendong">Random Vibration</Record>
+  <Record ID="TextEffect_Sway" Chinese="Sway">Rock</Record>
+  <Record ID="TextEffect_Swing" Chinese="Swing">Swing</Record>
+  <Record ID="TextEffect_tiaoru" Chinese="tiaoru">Jump</Record>
+  <Record ID="TextEffect_VerticalMergers" Chinese="VerticalMergers">Vertical merger</Record>
+  <Record ID="TextEffect_Waves" Chinese="Waves">Waves</Record>
+  <Record ID="TextEffect_Wind" Chinese="Wind">Wind</Record>
+  <Record ID="TextEffect_xialuo" Chinese="xialuo">Whereabouts</Record>
+  <Record ID="TextEffect_xialuodexing" Chinese="xialuodexing">Fallen Star</Record>
+  <Record ID="TextEffect_xiangshangchuiqi" Chinese="xiangshangchuiqi">Blowing Up</Record>
+  <Record ID="TextEffect_xiangzuotuola" Chinese="xiangzuotuola">Left drag</Record>
+  <Record ID="TextEffect_xiaqingxianxian_xaiqingxiaotui" Chinese="xiaqingxianxian_xaiqingxiaotui">Downdip show - down-dip fade</Record>
+  <Record ID="TextEffect_xiaxue" Chinese="xiaxue">Snow</Record>
+  <Record ID="TextEffect_xingguangsishe" Chinese="xingguangsishe">Spark</Record>
+  <Record ID="TextEffect_xuanzhuanxianxian_xuanzhuanxiaotui" Chinese="xuanzhuanxianxian_xuanzhuanxiaotui">Rotate show - Rotary subside</Record>
+  <Record ID="TextEffect_xuanzhuanxianxian_yidongxiaotui" Chinese="xuanzhuanxianxian_yidongxiaotui">Rotate show - Mobile subside</Record>
+  <Record ID="TextEffect_yanmu" Chinese="yanmu">Smokescreen</Record>
+  <Record ID="TextEffect_yinying" Chinese="yinying">Shadow</Record>
+  <Record ID="TextEffect_yinyingbaozha" Chinese="yinyingbaozha">Shadows explosion</Record>
+  <Record ID="TextEffect_youyi" Chinese="youyi">Right</Record>
+  <Record ID="TextEffect_yuyizhedie" Chinese="yuyizhedie">Folding wings</Record>
+  <Record ID="TextEffect_zhediexianxian" Chinese="zhediexianxian">Folding show</Record>
+  <Record ID="TextEffect_zhendong" Chinese="zhendong">Shock</Record>
+  <Record ID="TextEffect_zhouzhuan" Chinese="zhouzhuan">Pivots</Record>
+  <Record ID="TextEffect_zhuangji" Chinese="zhuangji">Hit</Record>
+  <Record ID="PleaseEnterCounterDescription" Chinese="请在这里输入计时说明">Please enter the counter description here</Record>
+  <Record ID="ItemAndContentCantUseBackgroundBoth" Chinese="节目和内容不能同时使用背景">Program and content can not use background both</Record>
+  <Record ID="FD_SelectAll" Chinese="全选">Select All</Record>
+  <Record ID="FD_Address" Chinese="地址">Address</Record>
+  <Record ID="FD_ControlSize" Chinese="控制面积">Control Size</Record>
+  <Record ID="FD_Model" Chinese="型号">Model</Record>
+  <Record ID="FD_Data" Chinese="数据">Data</Record>
+  <Record ID="FD_Scan" Chinese="扫描">Scan</Record>
+  <Record ID="FD_CommType" Chinese="通讯方式">Comm Type</Record>
+  <Record ID="ScanTypeListStatic" Chinese="">
+  </Record>
+  <Record ID="ScanTypeList2" Chinese="">
+  </Record>
+  <Record ID="ScanTypeList4" Chinese="0、常规P10  1/4扫 上蛇形 一路数据带16行 8列折行|1、常规P16  1/4扫 上蛇形 一路数据带8行 8列折行|2、常规P10  1/4扫 上蛇形 一路数据带16行 8列折行 无138译码|3、P10 恒流白 1/4扫 上蛇形 一路数据带16行 8列小折行（上蛇形），32列大折行（上蛇形）|4、P20 全彩 下蛇形，一路数据带8行，8列折行。">0, the conventional P10 1/4 sweep on serpentine road data with 16 rows and 8 columns wrap | 1, conventional P16 1/4 sweep on serpentine road data with 8 rows and 8 columns wrap | 2, conventional P10 1/4 sweep data on the serpentine belt 16 along fold line 8 line decoder no 138 | 3, P10 constant white 1/4 sweep all the way to the data on the serpentine belt 16 rows 8 small folding line (on serpentine), 32 large folding OK (on serpentine) | 4, P20 full color under the snake, the way the data with 8 rows, 8 wrap。| 5, P13.33 single white snake on the way with 12 rows of data, eight fold line.</Record>
+  <Record ID="ScanTypeList6" Chinese="0、1/6扫 强力全彩Q13.33上蛇形，一路数据带12行，8列折行">0,1 / 6 full color Q13.33 powerful sweep on serpentine, along with 12 rows of data, eight wrap</Record>
+  <Record ID="ScanTypeList8" Chinese="0、1/8扫 直线形 一路数据带8行">0,1 / 8 scan straight all the way with eight rows of data</Record>
+  <Record ID="ScanTypeList16" Chinese="0、1/16扫 直线形 一路数据带16行">0,1 / 16 all the way straight sweep with 16 rows of data</Record>
+  <Record ID="NoItem" Chinese="至少有一个节目">At least one program</Record>
+  <Record ID="NoFlashDisk" Chinese="未检测到可用U盘!">U disk is not detected!</Record>
+  <Record ID="MemeoryOverSize" Chinese="数据量超过存储器大小,请重新编辑内容!">The amount of data exceeds the memory size, re-edit content!</Record>
+  <Record ID="USB_Save_Success" Chinese="数据保存成功!">Data saved successfully!</Record>
+  <Record ID="USB_Save_Failed" Chinese="数据保存错误">Data Retention Error</Record>
+  <Record ID="USB_LedModel" Chinese="卡型号:">Card Type:</Record>
+  <Record ID="USB_ColorModel" Chinese="颜色模式:">Color Mode:</Record>
+  <Record ID="USB_ColorModel_Single" Chinese="单色,">Monochrome,</Record>
+  <Record ID="USB_ColorModel_Double" Chinese="双色,">Color,</Record>
+  <Record ID="USB_ColorModel_Three" Chinese="三色,">Three-color,</Record>
+  <Record ID="USB_Height" Chinese="高度:">Height:</Record>
+  <Record ID="USB_Width" Chinese="宽度:">Width:</Record>
+  <Record ID="USB_OE" Chinese="OE极性:">OE polarity:</Record>
+  <Record ID="USB_HightLevel" Chinese="高电平有效,">Active High,</Record>
+  <Record ID="USB_LowLevel" Chinese="低电平有效,">Active low,</Record>
+  <Record ID="USB_Data" Chinese="数据极性:">Data polarity:</Record>
+  <Record ID="USB_SavingData" Chinese="正在保存数据......">Saving Data......</Record>
+  <Record ID="USB_Luminance_Manual" Chinese="手动,当前亮度:">Manually, the current brightness:</Record>
+  <Record ID="USB_Luminance_Auto" Chinese="自动调节">Automatic adjustment</Record>
+  <Record ID="USB_Luminance_Sensor" Chinese="传感器调节">Sensor adjustment</Record>
+  <Record ID="HasEmptyMarquee" Chinese="检测到空的图文分区,请重新编辑!">Detected empty graphic partition, re-edit!</Record>
+  <Record ID="AllItemClosed" Chinese="所有的节目都处于关闭状态,请重新编辑!">All programs are turned off, please re-edit!</Record>
+  <Record ID="Reg_Flash" Chinese="Flash组件为注册,点击OK现在注册!">Flash component is registered, click OK Register now!</Record>
+  <Record ID="RebootComputer" Chinese="点击确定,软件将退出!请重新打开软件!">Click OK, the software will quit! Please re-open the software!</Record>
+  <Record ID="Enable" Chinese="启用">Enable</Record>
+  <Record ID="Disable" Chinese="禁用">Disabled</Record>
+  <Record ID="USB_NotSupportFormat" Chinese="控制系统不支持该U盘的文件格式，请将U盘格式化为FAT32格式，保存按钮自动启用">控制系统不支持该U盘的文件格式，请将U盘格式化为FAT32格式，保存按钮自动启用</Record>
+  <Record ID="USB_NoFlashDisk" Chinese="没有检测到U盘!">没有检测到U盘!</Record>
+</Root>

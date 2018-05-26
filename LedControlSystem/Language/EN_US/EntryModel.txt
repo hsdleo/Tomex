@@ -1,0 +1,63 @@
+1,Static
+0,Random
+1,Show Now
+130,Continuous Move Left
+131,Continuous Move Right
+132,Continuous Move Up
+133,Continuous Move Down
+15,Turn Over Body
+47,Clockwise Windmills
+48,Counterclockwise Windmills
+16,Bubbling
+17,Snowing
+18,Left Rcattered Tensile
+19,Right Rcattered Tensile
+51,Picture Scroll Open
+25,Fan Out
+26,Fan Merge
+37,Rectangular Open
+38,Rectangular Zoom
+39,Rhombus Open
+40,Rhombus Zoom
+41,Upper Left Spread
+42,Upper Right Spread
+43,Lower Left Spread
+44,Lower Right Spread
+45,Left Ray Spread
+46,Right Ray Spread
+49,Move Right And Left
+50,Centre Spread
+52,Cross Curtain Right And Left
+53,Cross Curtain Up And Down
+54,Left Laser Display
+55,Right Laser Display
+56,Up Laser Display
+57,Down Laser Display
+27,Clockwise Cover
+28,Counterclockwise Cover
+29,Upper Left Cover
+30,Upper Right Cover
+31,Lower Left Cover
+32,Lower Right Cover
+33,Upper Left Angle Cover
+34,Upper Right Angle Cover
+35,Left Lower Left Angle Cover
+36,Right Lower Right Angle Cover
+2,Move Left
+3,Move Right
+4,Move Up
+5,Move Down
+6,Emile Zola Curtain Display
+7,Right Pull Curtain Display
+8,Move To Center From Right And Left
+9,Split To Right And Left
+10,Spread Out Upward
+11,Spread Out Downward
+12,Move To Center From Up And Down
+13,Split To Up And Down
+14,Horizontal Blinds
+20,Upper Vector Stretch
+21,Down Vector Stretch
+22,Left Vector Stretch
+23,Right Vector Stretch
+24,Flicker

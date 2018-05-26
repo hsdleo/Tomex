@@ -1,0 +1,1 @@
+regsvr32 Flash32_11_8_800_168.ocx /s

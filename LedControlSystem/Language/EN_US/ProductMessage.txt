@@ -1,0 +1,438 @@
+/****
+MODEL£ºZH-A1
+1.Maximum points£º20480£¨Color halved£©
+    Single    32*640   48*416   
+    Double£º32*320   48*192
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.Support serial communication mode
+8.Supports serial program upgrade
+9.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+
+/****
+MODEL£ºZH-A4
+1.Maximum points£º65536£¨Color halved£©
+    Single    32*2048   64*1024   
+    Double£º32*1024   64*512
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.Support serial communication mode
+8.Supports serial program upgrade
+9.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£º ZH-U0
+1.Maximum points£º16384£¨Color halved£©
+    Single  32*512    16*1024
+    Double  32*256    16*512
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.U disk and serial communication mode
+8.Support U disk and serial program upgrade
+9.FAT32/NTFS/EXFAT   Supports all U disk storage format FAT32/NTFS/EXFAT
+10.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-U1
+1.Maximum points£º32768£¨Color halved£©
+    Single  32*1024    16*2048
+    Double  32*512    16*1024
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.U disk and serial communication mode
+8.Support U disk and serial program upgrade
+9.FAT32/NTFS/EXFAT   Supports all U disk storage format FAT32/NTFS/EXFAT
+10.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL:  ZH-U2
+1.Maximum points£º49152£¨Color halved£©
+    Single  48*1024   64*768
+    Double  48*512    32*768
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.U disk and serial communication mode
+8.Support U disk and serial program upgrade
+9.FAT32/NTFS/EXFAT   Supports all U disk storage format FAT32/NTFS/EXFAT
+10.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-U3
+1.Maximum points£º65536£¨Color halved£©
+    Single  64*1024   128*512
+    Double  64*512    128*256
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.U disk and serial communication mode
+8.Support U disk and serial program upgrade
+9.FAT32/NTFS/EXFAT   Supports all U disk storage format FAT32/NTFS/EXFAT
+10.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+/****
+MODEL£ºZH-U5
+1.Maximum points£º163840£¨Color halved£©
+    Single  48*3008   64*2560
+            128*1280  256*640
+    Double  64*1280   128*640
+    Note:Color 08 interface with only four rows high
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.U disk and serial communication mode
+8.Support U disk and serial program upgrade
+9.FAT32/NTFS/EXFAT   Supports all U disk storage format FAT32/NTFS/EXFAT
+10.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-U6
+1.Maximum points£º524288£¨Color halved£©
+    Single 32*4096    48*4096
+           128*4096   256*2048
+    Double 32*4096    48*4096
+           128*2048   256*1024
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.U disk and serial communication mode
+8.Support U disk and serial program upgrade
+9.FAT32/NTFS/EXFAT   Supports all U disk storage format FAT32/NTFS/EXFAT
+10.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-U8
+1.Maximum points£º524288£¨Color halved£©
+    Single  48*4096    128x4096   
+            256*2048   512*1024
+    Double  32*4096    128*2048   
+            256*1024   512*512
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.U disk and serial communication mode
+8.Support U disk and serial program upgrade
+9.FAT32/NTFS/EXFAT   Supports all U disk storage format FAT32/NTFS/EXFAT
+10.RS-232 communication line is straight line
+   Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-E1
+1.Maximum points£º25600£¨Color halved£©
+    Single  32*800  48*512
+    Double  32*384  48*256
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.Support Ethernet port and serial port communication mode
+8.Automatically obtain IP, IP settings without
+9.Direct Connect supports stand-alone and LAN communication
+10.Fully compatible network port communication through line and cross-line
+11.RS-232 communication line is straight line
+   Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-E3
+1.Maximum points£º65536£¨Color halved£©
+    Single  32*2048  128*512
+    Double  32*1024  128*256
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.Support Ethernet port and serial port communication mode
+8.Automatically obtain IP, IP settings without
+9.Direct Connect supports stand-alone and LAN communication
+10.Fully compatible network port communication through line and cross-line
+11.RS-232 communication line is straight line
+   Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-E5
+1.Maximum points£º163840£¨Color halved£©
+    Single  48*3008  64*2560
+            128*1280 256*640
+    Double  48*1696  64*1280
+            128*640  256*320
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.Support Ethernet port and serial port communication mode
+8.Automatically obtain IP, IP settings without
+9.Direct Connect supports stand-alone and LAN communication
+10.Fully compatible network port communication through line and cross-line
+11.RS-232 communication line is straight line
+   Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-E6
+1.Maximum points£º524288£¨Color halved£©
+    Single 32*4096    48*4096
+           128*4096   256*2048
+    Double 32*4096    48*4096
+           128*2048   256*1024
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.Support Ethernet port and serial port communication mode
+8.Automatically obtain IP, IP settings without
+9.Direct Connect supports stand-alone and LAN communication
+10.Fully compatible network port communication through line and cross-line
+11.RS-232 communication line is straight line
+   Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-E8
+1.Maximum points£º524288£¨Color halved£©
+    Single 48*4096    128*4096   
+           256*2048   512*1024
+    Double 32*4096    128*2048   
+           256*1024   512*512
+2.Supports all scanning
+3.Support 16 free partition
+4.Support full screen ran ran side edges and partitions
+5.Supports full screen dynamic background and dynamic background by district
+6.Support N kinds of cool text animation
+7.Support Ethernet port and serial port communication mode
+8.Automatically obtain IP, IP settings without
+9.Direct Connect supports stand-alone and LAN communication
+10.Fully compatible network port communication through line and cross-line
+11.RS-232 communication line is straight line
+   Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-G0
+1.Maximum points£º10240
+    16x640   32x320
+2.Support 1/4, 1/8, 1/16
+3.Support free partition
+4.Support Magic ran side (the entire screen / partition)
+5.Support countdown, temperature
+6.Communication Interface: GPRS RS-232
+7.Support the timer switch
+8.Supports full-screen test
+9.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-G3
+1.Maximum points£º65536
+    16x3008  32x2048
+    64x1024  128x512
+2.Support 1/4, 1/8, 1/16
+3.Support free partition
+4.Support Magic ran side (the entire screen / partition)
+5.Support countdown, temperature
+6.Communication Interface: GPRS RS-232
+7.Ö§Support the timer switch
+8.Supports full-screen test
+9.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-M0
+1.Maximum points£º10240
+    16x640  32x320
+2.Support 1/4, 1/8, 1/16
+3.Support free partition
+4.Support Magic ran side (the entire screen / partition)
+5.Support countdown, temperature
+6.Communication Interface: GPRS RS-232
+7.Support the timer switch
+8.Supports full-screen test
+9.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-M3
+1.Maximum points£º65536
+    16x3008  32x2048
+    64x1024  128x512
+2.Support 1/4, 1/8, 1/16
+3.Support free partition
+4.Support Magic ran side (the entire screen / partition)
+5.Support countdown, temperature
+6.GPRS RS-232 Communication Interface: GPRS RS-232
+7.Support the timer switch
+8.Supports full-screen test
+9.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-Z0
+1.Maximum points£º10240
+    16x640  32x320
+2.Support 1/4, 1/8, 1/16
+3.Support free partition
+4.Support Magic ran side (the entire screen / partition)
+5.Support countdown, temperature
+6.RS-485 RS-232 Communication Interface: RS-485 RS-232
+7.Support the timer switch
+8.Supports full-screen test
+9.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-Z3
+1.Maximum points£º65536
+    16x3008  32x2048
+    64x1024  128x512
+2.Support 1/4, 1/8, 1/16
+3.Support free partition
+4.Support Magic ran side (the entire screen / partition)
+5.Support countdown, temperature
+6.Communication Interface: RS-485 RS-232
+7.Support the timer switch
+8.Supports full-screen test
+9.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+/****
+MODEL£ºZH-W1
+1.Maximum points£º65536£¨Color halved£©
+	Single 16x1600  32x800
+	Double  16x800   32x400
+2.Support 1/4, 1/8, 1/16
+3.Support free partition
+4.Support Magic ran side (the entire screen / partition)
+5.Support for mobile phones and computers to send
+7.Support wifi and serial communication mode
+8.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+
+/****        
+ MODEL£ºZH-W3
+1.Maximum points£º65536£¨Color halved£©
+    Single 32x2048    48*1344 
+           64*1024    128*512
+    Double 32*1024    96*320
+           64*512     128*256
+2.Support 1/4, 1/8, 1/16
+3.Support free partition
+4.Support Magic ran side (the entire screen / partition)
+5.Support for mobile phones and computers to send
+7.Support wifi and serial communication mode
+8.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5
+         
+/****        
+MODEL£ºZH-W0
+1.Maximum points£º10240 £¨Color halved£©  
+       Single 16*640   32*320
+       Double 16*320   32*160
+2.Support 1/4, 1/8, 1/16
+3.Support free partition
+4.Support Magic ran side (the entire screen / partition)
+5.Support for mobile phones and computers to send
+7.Support wifi and serial communication mode
+8.RS-232 communication line is straight line
+  Connection as follows
+        PC ---- Device
+         2 ---- 2
+         3 ---- 3
+         5 ---- 5

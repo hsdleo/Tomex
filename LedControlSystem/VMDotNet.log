@@ -1,0 +1,36 @@
+[2013-10-15 12:55:22] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 12:57:24] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 12:58:07] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 12:58:20] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 12:59:05] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 13:00:30] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 13:04:53] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 13:06:46] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 13:07:18] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 13:07:38] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 14:33:54] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)
+[2013-10-15 14:34:16] 运行程序 F:\V3Setup\Led Control System V3.19T11\LedControlSystem\LedControlSystem.exe 出现错误！System.Runtime.Serialization.SerializationException: Serialization error.
+   at System.AppDomain.ExecuteAssembly(String assemblyFile, Evidence assemblySecurity, String[] args)
+   at FetionVM.Program.Main(String[] args)

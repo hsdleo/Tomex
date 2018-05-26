@@ -1,0 +1,63 @@
+1,visualizaci車n est芍tica
+0,azar
+1,En exhibici車n
+130,Visualizaci車n continua izquierdo
+131,Visualizaci車n continua derecho
+132,Continua Up Display
+133,Visualizaci車n continua abajo
+15,Cuerpo girado Desocupado
+47,Molino de viento en sentido horario
+48,CCW molino de viento
+16,burbuja
+17,nieve
+18,Izquierda dispersa estiramiento
+19,Derecho dispersa estiramiento
+51,Abrir imagen
+25,ventilador
+26,consolidaci車n del sector
+37,rectangular Expand
+38,ampliar Rectangle
+39,Diamond Expand
+40,Diamond Ampliar
+41,Ampliar la diagonal izquierda
+42,Ampliar la diagonal superior derecha
+43,Ampliar la diagonal izquierda
+44,Expandir la parte inferior derecha diagonal
+45,Expansi車n ray Left
+46,Expansi車n ray Derecho
+49,Se traslad車 en torno
+50,desbordamiento Intermedio
+52,Tire de la cortina alrededor de la cruz
+53,Cruce tire abajo la cortina
+54,Izquierda Laser Show
+55,Haga la demostraci車n del laser
+56,Espect芍culo de l芍ser en
+57,En Mostrar Laser
+27,cobertura de horario
+28,Cubra la izquierda
+29,Cubierta barra izquierda
+30,Derecho recortar cubierta
+31,Cubierta barra izquierda
+32,Cubrir la parte inferior derecha diagonal
+33,Cobertura 芍ngulo izquierdo
+34,Cobertura de 芍ngulo recto
+35,Cobertura 芍ngulo izquierdo
+36,Cobertura de 芍ngulo recto
+2,izquierda muestra
+3,Derecho Mostrar
+4,Up Display
+5,abajo Mostrar
+6,Zola pantalla
+7,Tirando de la pantalla derecha
+8,Pantalla cerrada alrededor
+9,Muestra todo
+10,Tire de la pantalla
+11,Pantalla Pull-down
+12,Display cerrado
+13,Head to Toe Mostrar
+14,persianas horizontales
+20,Dibujo vectorial de
+21,Dibujo vectorial bajo
+22,Izquierda dibujo vectorial
+23,Derecho de dibujo vectorial
+24,parpadeo

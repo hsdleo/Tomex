@@ -1,0 +1,42 @@
+1,None
+0,Random
+2,Quick Clear
+3,Move Left Out
+4,Move Right Out
+5,Move Up Out
+6,Move Down Out
+7,Emile Zola Curtain Out
+8,Right Pull Curtain Out
+9,Move To Center From Right And Left
+10,Split To Right And Left
+11,Spread Out Upward
+12,Spread Out Downward
+13,Move To Center From Up And Down
+14,Split To Up And Down
+15,Horizontal Blinds
+16,Vertical Blinds
+17,Fan Out
+18,Fan Merge
+19,Clockwise Cover
+20,Counterclockwise Cover
+21,Upper Left Cover
+22,Upper Right Cover
+23,Lower Left Cover
+24,Lower Right Cover
+25,Upper Left Angle Cover
+26,Upper Right Angle Cover
+27,Left Lower Left Angle Cover
+28,Right Lower Right Angle Cover
+29,Rectangular Open
+30,Rectangular Zoom
+31,Rhombus Open
+32,Rhombus Zoom
+33,Upper Left Spread
+34,Upper Right Spread
+35,Lower Left Spread
+36,Lower Right Spread
+37,Left Ray Spread
+38,Right Ray Spread
+39,Clockwise Windmills
+40,Counterclockwise Windmills
+41,Picture Scroll Close

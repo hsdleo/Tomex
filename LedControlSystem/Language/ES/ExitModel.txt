@@ -1,0 +1,42 @@
+1,No est芍 claro
+0, el azar
+2, la eliminaci車n r芍pida
+3, salida a la izquierda
+4, salida a la derecha
+5, salir
+6, salida hacia abajo
+7, pantalla de Zola para salir
+8, tirando de la pantalla de la derecha para salir
+9, por lo que cerca de la salida
+10, a la izquierda de la salida
+11, la pantalla de pull-up para salir
+12, una pantalla desplegable para salir
+13, una salida de fondo cerrado
+14, arriba y abajo de la salida
+15, las persianas horizontales
+16, persianas verticales
+17, abanico
+18, la consolidaci車n del sector
+19, la cobertura de las agujas del reloj
+20, la cobertura en sentido antihorario
+21, cubierta de barra superior izquierda
+22, cubierta de barra superior derecha
+23, cubierta de barra inferior izquierda
+24, que cubre la parte inferior derecha diagonal
+25, la cobertura del 芍ngulo superior izquierdo
+26, Cobertura de 芍ngulo recto
+27, la cobertura de 芍ngulo inferior izquierdo
+28, Cobertura de 芍ngulo recto
+29, la expansi車n rectangulares
+30, el zoom rectangular
+31, diamante Expand
+32, diamante zoom
+33, barra superior izquierda ampliar
+34, barra superior derecha ampliar
+35, barra inferior izquierda ampliar
+36, abajo a la derecha en diagonal ampliar
+37, la expansi車n ray izquierda
+38, la expansi車n ray derecho
+39, molino de las agujas del reloj
+40, molino de viento hacia la izquierda
+41, la imagen se cierra
